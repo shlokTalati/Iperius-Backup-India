@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /resellers/
+Disallow: /users/
+Disallow: /message.aspx
+Disallow: /error.htm
+Disallow: /404.htm
+Disallow: /trial-activation.aspx
+Disallow: /wrc-notification.aspx

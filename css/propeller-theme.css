@@ -1,0 +1,263 @@
+pmd-card/* 
+---------------------------------------
+	Propeller Style Guide Version 1
+---------------------------------------	
+* 	Primary Color : #001E80
+* 	Secondary Color : #4acc8e
+* 	Highlighted Text (Title) Color & Fonts : #333c4e, 'Google', sans-serif
+* 	Body Text Color & Fonts : #333c4e, 'Roboto', sans-serif
+font-family: 'Google', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+---------------------------------------
+	Elements Covered
+---------------------------------------
+* 	Typography
+* 	Buttons
+* 	Icons
+* 	Form Elements and theme
+--------------------------------------- 
+*/
+
+html { height:100%;}
+body {font-family: 'Google', sans-serif; font-size:16px; line-height:1.6; color:#6f6f6f; background-color:#f6f8fa;}
+
+/*======= Reuse class =======*/
+/*Background Color*/
+.primary-bg {background-color:#192866;} 
+.secondary-bg {background-color:#4acc8e;} 
+.white-bg {background-color:#ffffff;}
+.grey-bg {background-color:#eeeeee;}
+.black-bg { background-color:#4D575D;}
+.blue-bg{ background-color: #4285f4;}
+.darkblue-bg {background-color:#2C343F;}
+.orange-bg { background-color:#f7912f;}
+.violet-bg { background-color:#04B5A3;}
+.green-bg { background-color:#3CAD45; }
+.lightblue-bg { background-color:#2f7af7;}
+.feedback-bg { background-color:#3c98d9;}
+.sky-bg { background-color:#65bfff;}
+/* Typography Color */
+.primary-text {color:#4d575d;}
+.secondary-text {color:#424242;}
+.orange-text {color:#f7912f;}
+.dark-gray-text {color:#333333;}
+.blue-text {color:#0373cc;}
+.violet-text {color:#03b5a2;}
+.tomato-text {color:#f05658;}
+.purpule-text {color:#9159b8;}
+.indigo-text {color:#3a6f8e;}
+
+/*======= Typography =======*/
+
+/* Font Size */
+.pmd-display-4 {font-size:70px;line-height:1.4;}
+.pmd-display-3 {font-size:56px; font-weight: 300;}
+.pmd-display-2 {font-size:48px;}
+.pmd-display-1 {font-size:42px;}
+
+/* Custom Font Family */
+.ff-roboto{font-family: 'Roboto', sans-serif !important;}
+.ff-Google{font-family: 'Google', sans-serif !important;}
+.fw-light{font-weight:300;}
+.fw-regular{font-weight:400;}
+.fw-medium{font-weight:500;}
+.fw-bold{font-weight:700;}
+
+/* Custom Font Family */
+.fs-xs{ font-size: 14px}
+.fs-sm{ font-size: 18px}
+.fs-md{ font-size: 28px}
+.fs-lg{ font-size: 36px}
+
+/* Color & Weight style */
+h1, h2, h3, h4, h5, h6{ color:#333c4e; font-family:'Google', sans-serif; }
+h1 strong, h2 strong, h3 strong, h4 strong, h5 strong{font-weight:700;}
+h1 a, h2 a, h3 a, h4 a, h5 a,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover{color:#333c4e;}
+
+/* Font size and color according to Google Material */
+h1, .h1 { font-size:36px; font-weight: 500; }
+h2, .h2 { font-size:28px; font-weight:300; text-transform: uppercase;}
+h3, .h3 { font-size:18px; font-weight: 300;  text-transform: uppercase;}
+h4, .h4 { font-size:16px; font-weight: 600;}
+h5, .h5 { font-size:16px; font-weight: 500;}
+
+h2 a, .h2 a { color: #333c4e;}
+
+/* Other Element Style */
+em{font-style:italic;font-family: 'Roboto', sans-serif;}
+.lead {font-size:20px; color: rgba(51, 60, 78, 0.75); margin-bottom:25px; line-height:1.3}
+.lead.inverse{ color: rgba(255, 255, 255, 0.87);}
+strong, b{font-weight:700;}
+label{font-weight:400;}
+a{ color:#00a9a6; text-decoration:none; outline:none;}
+a:hover, a:focus, a:active{color:#00a9a6;}
+p{ margin-bottom: 24px;}
+p { font-size:16px; color:rgba(51,60,78,0.87);}
+/*======= Input Field =======*/
+.bar{background-color:#001E80;}
+
+/* Input Field & Selectbox Inverse Theme */
+form.theme-inverse .bar, form.theme-inverse .paper-input.has-error .form-control:invalid ~ .bar, form.theme-inverse .dc-radio *:checked + span.dc-radio-label::after{background-color: #ffffff;}
+form.theme-inverse .paper-input.has-error .form-control:invalid ~ .has-error-text, form.theme-inverse .floating-label label{color:rgba(255,255,255,0.54);}
+form.theme-inverse .paper-input.has-error .form-control:invalid{border-color:rgba(255,255,255,0.54);color:#fff;}
+form.theme-inverse .has-error.floating-label.floating-label-completed label, form.theme-inverse .radio, form.theme-inverse .checkbox{color:#fff;}
+form.theme-inverse .select2-container--default .select2-selection--single .select2-selection__rendered, form.theme-inverse .paper-input .form-control{color:#fff;border-color:rgba(255,255,255,0.54)}
+
+/*======= Error Input =======*/
+.paper-input.has-error .form-control:invalid{color:#e73e52;border-color:#e73e52}
+.paper-input.has-error .form-control:invalid ~ .bar{background-color:#e73e52;}
+.has-error.floating-label.floating-label-completed label{color:#e73e52; opacity:0.64;}
+.paper-input.has-error .form-control:invalid ~ .has-error-text{font-size:12px;color:#e73e52;opacity:0.87}
+
+/*======= Background fill Color =======*/
+.bg-fill-primary-color {background-color:#036AE3;} /*Propeller Primary color*/
+.bg-fill-secondary-color {background-color:#4ACC8E;} /*Propeller Secondary color*/
+.bg-fill-white {background-color:#ffffff;}
+.bg-fill-darkgrey {background-color:#333333;}
+.bg-fill-yellow { background-color:#ffc776;}
+.bg-fill-darkblue {background-color:#333c4e;}
+
+/*======= Typography fill Color =======*/
+.typo-fill-darkblue {background-color:#333c4e;}
+.typo-fill-darkblue-contrast{ background-color: rgba(51,60,78,0.87);}
+.typo-fill-darkblue-contrast-light{ background-color: rgba(51,60,78,0.54);}
+
+/*======= Button =======*/
+
+/* Primary Button */
+.btn-primary{background-color:#4acc8e;}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary:active:focus{background-color:#43bb82; color:#fff;}
+
+/* Outline Button */
+.pmd-btn-outline.btn-primary{ border:1px solid #4acc8e; color:#4acc8e;}
+.pmd-btn-outline.btn-primary:hover, .pmd-btn-outline.btn-primary:focus, .pmd-btn-outline.btn-primary:active{border:1px solid #4acc8e; background-color:#4acc8e; color:#fff;}
+
+/* Secondary Button */
+.btn-secondary{ background-color:#3c87da; color:#fff;}
+.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active{background-color:#0047b8; color:#fff;}
+
+/* Outline Button */
+.pmd-btn-outline.btn-secondary{ background-color:transparent; border:1px solid #3c87da; color:#3c87da;}
+.pmd-btn-outline.btn-secondary:hover, .btn-outline.btn-primary:focus, .btn-outline.btn-primary:active{border:1px solid #3c87da; background-color:#3c87da; color:#fff;}
+
+/* Default Button */
+.btn-default{ color:#333c4e;}
+.btn-default:hover, .btn-default:focus {color:#333c4e;}
+
+.pmd-btn-outline.btn-default{ background-color:transparent; border:1px solid #484E5B; color:#484E5B;}
+.pmd-btn-outline.btn-default:hover, .btn-outline.btn-primary:focus, .btn-outline.btn-primary:active{border:1px solid #484E5B; background-color:#484E5B; color:#fff;}
+
+
+/* Button Ripple Background */
+.btn .ink{background-color:rgba(255,255,255,0.74) !important;}
+
+.btn-group-lg>.btn, .btn-lg{ padding: 12px 24px; line-height: 1;}
+.pmd-card-actions .btn-group-lg>.btn, .pmd-card-actions .btn-lg{padding: 12px 24px;}
+@media screen and (max-width: 767px){
+	.btn-group-lg>.btn, .btn-lg{padding: 10px 16px;}	
+}
+
+/* Radio & Checkbox Inverse Theme */
+/* Normal */
+form.theme-inverse .dc-radio > span.dc-radio-label::before, form.theme-inverse .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::before{border-color:rgba(255,255,255,0.34);}
+
+/* Checked */
+form.theme-inverse .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::before, form.theme-inverse .dc-radio *:checked + span.dc-radio-label::before{background-color:#4acc8e;border-color:#4acc8e;}
+
+/*======= Checbox Rounded theme css =======*/
+/* Rounded Checkbox Custom */
+.checkbox-rounded .dc-checkbox .dc-checkbox-label{margin-top:-8px;}
+.checkbox-rounded .dc-checkbox{display:inline-block;padding:8px;min-width:124px;margin:0 4px 4px 0;border-radius:2px;border:1px solid rgba(0,0,0,0.14);background-color:#fff;line-height:1.4;}
+.checkbox-rounded .dc-checkbox span{text-transform:uppercase;font-size:14px; display:table-cell; vertical-align:middle; line-height:24px; padding-left:5px;}
+.checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::before, .checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::before { border-radius:50%; width:23px; height:23px; border:2px solid rgba(0,0,0,0.34);}
+.checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label, .checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label { display:table-cell; vertical-align:middle;}
+.checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::after, .checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::after {height:12px;width:6px;left:9px;top:5px;}
+
+/* Rounded Checkbox Theme */
+/* Normal */
+.checkbox-rounded .dc-checkbox.active span{color:#fff;font-weight:600;}
+.checkbox-rounded .dc-checkbox.active{background-color:#4acc8e}
+.checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::after, .checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::after{color:#4acc8e;}
+
+/* Checked */
+.checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::before{background-color:#fff;border-color:#fff;}
+.checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::after{color:#4acc8e;}
+
+/* Rounded Checkbox Inverse Theme */
+/* Normal */
+form.theme-inverse .checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::before{border-color:rgba(0,0,0,0.34)}
+form.theme-inverse .checkbox-rounded .dc-checkbox [type="checkbox"]:not(:checked) + .dc-checkbox-label::after, form.theme-inverse .checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::after{color:#4acc8e;}
+/* Checked */
+form.theme-inverse .checkbox-rounded .dc-checkbox [type="checkbox"]:checked + .dc-checkbox-label::before{border-color:#fff;background-color:#fff;}
+
+/*======= Icons =======*/
+.dic.dic-icon-location-pin{background-image:url(../images/icon-location-pin.png);background-repeat:no-repeat;background-size:37px 36px;background-color:transparent;display:inline-block;height:40px;width:40px;background-position:center;}
+.btn-circle .dic{color:#fff;}
+.dic{color:#4d4d4d;display:inline-block;vertical-align:middle;}
+.dic-custom.dic svg{height:24px;width:24px;fill:#4d4d4d;display:inline-block;vertical-align:middle;}
+.dic-custom.dic svg path{fill:#4d4d4d;}
+.dic-wb-sunny.dic{color:#f8801f;}
+.dic-brightness-3.dic-moon{transform:rotate(25deg);-webkit-transform:rotate(25deg);-moz-transform:rotate(25deg);-ms-transform:rotate(25deg);display:inline-block;margin-top:3px;}
+.dic.dic-custom.dic-corpository-icon svg{height:38px;width:38px;}
+
+/* Icon Inverse */
+.dic.dic-inverse{color:#fff;}
+.dic.dic-inverse.dic-custom svg, .dic.dic-inverse.dic-custom.dic svg path{fill:#fff;}
+/* Icon Inverse */
+
+/* Bedge */
+.badge {padding:0;width:24px;height:24px;line-height:24px;text-align:center;border-radius:50%;font-size:14px;color:#333333;}
+.badge-default{background:#fcc438;}
+/* Bedge */
+
+/*======= Card =======*/
+.pmd-card-text{ color: rgba(51,60,78,0.87); margin-bottom: 20px;}
+.pmd-card-no-space{ padding: 0 !important;}
+.pmd-card-text:last-child{ margin: 0;}
+.pmd-card-text p:last-child{ margin: 0;}
+.pmd-card-title-text{ color:#333c4e;}
+h2.pmd-card-title-text{ font-size: 20px; font-weight: 400;}
+.pmd-card-inverse .pmd-card-text{ color:rgba(255,255,2550,0.87);}
+.pmd-card-inverse .pmd-card-title-text{ color: #fff;}
+.pmd-card-inverse p{ color: rgba(255,255,255,0.87);}
+.pmd-card-subtitle-text{opacity: .67; font-size: 16px;}
+.pmd-card-custom-view{ padding: 8px;}
+.pmd-card-custom-view h3,
+.pmd-card-custom-view thead{ display: none;}
+.pmd-card-transparent{ background-color: transparent;}
+.pmd-card-transparent .pmd-card-title{ padding:0; margin-top: 0;}
+.pmd-card-transparent .pmd-card-title h2{ margin-bottom: 0; margin-top:0;}
+.pmd-card-transparent .pmd-card-title-text{ margin-bottom: 10px;}
+.pmd-card-transparent .pmd-card-actions{padding:0; margin-top: 16px;}
+.pmd-card-actions-justify{ display: table; border-spacing:8px 0; margin: 0 -8px;}
+.pmd-card-actions-justify .btn{ display: table-cell; width: 1%; margin: 0 8px;}
+.pmd-card-block{ padding:20px;}
+.pmd-card-block .pmd-card-title-text{ margin-bottom: 10px;}
+.pmd-card-title-text.blue-text {color:#0373cc;}
+@media screen and (max-width: 767px){
+	.pmd-card-block{ padding:20px 16px;}
+	.pmd-card{ margin-bottom: 16px;}
+}
+
+/* start theme Image and Video Credits css */
+.pmd-list-group .list-group-item{ color:rgba(51,60,78,0.87); margin-bottom: 16px;}
+.pmd-list-group .list-group-item .pmd-card-text {color:rgba(51,60,78,0.87);}
+.pmd-card-list{ margin-top: 20px; padding: 0; background-color:transparent}
+.pmd-card-list-arrow ul{ margin: 0; padding: 0;}
+.pmd-card-list-arrow li{ list-style-type:none; position:relative; color:#333c4e; font-size: 16px;font-family: Roboto; line-height:1.62; padding-left:15px;}
+.pmd-card-list-arrow li:before{content: "»"; position:absolute; left:0; color:#333c4e;}
+.pmd-list-group-nobg.pmd-list-group{ margin-bottom: 0;}
+.pmd-list-group-nobg.pmd-list-group .list-group-item{ background:none; padding: 30px 0 0; margin: 0 0 30px 0; border-top:rgba(0,0,0,0.15) solid 1px;}
+.pmd-list-group-nobg.pmd-list-group .list-group-item:last-child{ margin-bottom: 0;}
+.pmd-card-inverse .pmd-list-group-nobg.pmd-list-group .list-group-item .pmd-card-text{ color: rgba(255,255,255,0.87)}
+.pmd-card-inverse .pmd-list-group-nobg .pmd-card-title-text{ color: #fff;}
+.pmd-card-block-tbs{ margin-bottom: 16px; margin-top: 16px;}
+.theme-detail-blue-card{ position: relative; z-index: 1;}
+.theme-detail-blue-card::after{ content: ""; background: url(http://propeller.in/assets/images/profile-pic.png) no-repeat; position: absolute; height: 100%; width: 100%; top: 0; left: 0; background-size: cover; opacity: 0.3; z-index: -1;}
+hr{ border-top: 1px solid #e8e8e8; margin-top: 40px;  margin-bottom: 40px;}
+.btn-top-space{ margin-top: 40px;}
+
+/* start theme Image and Video Credits css */
+.section-inverse{ color: #fff;}

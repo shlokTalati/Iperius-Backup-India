@@ -1,0 +1,945 @@
+﻿
+
+<!doctype html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html id="ctl00_html_tag" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+
+<head><title>
+	Iperius Backup | Free backup software, Cloud, ESXi, FTP, SQL
+</title><link rel="shortcut icon" href="/favicon.ico" /><link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+    <!-- Google icon -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="/css/font-awesome.min.css" type="text/css" media="all" />
+
+    <!-- common css -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller-theme.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/landing-page.css" type="text/css" media="all" />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="/css/iperius.css" type="text/css" media="all" />
+
+    <!-- script for jquery library -->
+    <script type='text/javascript' src='/js/jquery-1.12.2.min.js'></script>
+  
+    <meta name="robots" content="index,follow" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="description" content="Drive Image backup software, VMware ESXi Free and Hyper-V, SQL Server, Exchange. Backup to NAS and Tape LTO. Cloud Backup, S3, Google Drive and FTP. Windows 10 / Server 2019" /><link rel="alternate" href="https://www.iperiusbackup.co.uk" hreflang="en-GB" /><link rel="alternate" href="https://www.iperiusbackup.es" hreflang="es" />
+	
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DNFRY34SJ0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DNFRY34SJ0');
+</script>
+	
+	</head>
+
+
+<body class="" style="overflow-x:hidden;">
+  
+  <form name="aspnetForm" method="post" action="./index.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA5NzU4MDI3MGRkDggDuM/tON/Tl0cOmvPFz5wHXyiDFu5SzcuYc1rjut4=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAyzW6JnnKfnU2kvS48f+kMsX7Xvzb09p206mAKQZG+aDJPRk2hFk/5agF2+zHdQ3W5U/HBf1RoocDPthgLqXNyrTIwYQXQ20EFgaHyGmWMWfas0HRGwuXjfgETeM6D4LZquWm7ON6K45djYmt44BnQHn83eB8e9VUvbppsii+z+3mxBy7f4n7Dbnq3Obxu64ar37Z3w61jMIuKFEgTXzWy1GeAdHJefdjqKkWMUYuHrRWUmEbhrldhHyxc7q13HwZRg61ve1O/wIp9mXYXQxRMbRgyjaHqcwXE3tnBsqT98Xw==" />
+
+  
+
+<!--navbar start -->
+	<nav class="navbar navbar-inverse pmd-navbar navbar-fixed-top">
+
+         <div class="container">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <button class="pmd-ripple-effect navbar-toggle pmd-navbar-toggle" type="button">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <!--logo-->
+                  <a href="/index.aspx" class="navbar-brand">
+                        <img src="/img/logos/logo.png" width="173" />
+                   </a>
+              
+              
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div id="bs-example-navbar-collapse-2" class="collapse navbar-collapse pmd-navbar-sidebar"  style="display: inline-block !important;">
+                   
+                    <a href="/backup-tutorials/index-tutorials.aspx"></a> &nbsp; &nbsp;
+                  
+            		<!--nav -->
+            		<ul id="menu-top-menu" class="nav navbar-nav navbar-right">
+                        <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/download-software-backup.aspx" title="Iperius Backup Freeware" >Free Download</a></li>
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Solutions <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            
+                            <li><a href="/drive-image-backup.aspx">Drive Image Backup / Disk cloning / P2V</a></li>
+                            <li><a href="/ftp-backup-cloud-storage-online.aspx">Backup to Cloud, S3 e FTP</a></li>
+                            <li><a href="/backup-database.aspx">SQL Database Backup</a></li>
+                            <li><a href="/software-backup-esxi-hyper-v.aspx">Backup VMware ESXi/Free, vCenter</a></li>
+                              <li><a href="/software-backup-esxi-hyper-v.aspx">Backup Hyper-V</a></li>
+                            <li><a href="/backup-exchange-software-export-mailboxes-pst.aspx">Backup Exchange Server / Online (Office 365)</a></li>
+                            <li><a href="/tape-backup-software.aspx">Backup to Tape (LTO)</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Centralized Management - IT/Backup Monitoring</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Cloud Storage (FTPS / S3)</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx">Remote Desktop - Remote Support</a></li>
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                              <li><a href="/software-backup-free.aspx">Iperius Backup <strong>Free</strong></a></li> 
+                              <li><a href="/iperius-backup-desktop.aspx">Iperius Backup Desktop</a></li> 
+                              <li><a href="/backup-software-windows.aspx">Iperius Backup (All versions)</a></li> 
+                              <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Iperius Console</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Iperius Cloud Storage</a></li>
+                            <li><a style="color:#ff6d3f; font-weight:bold;" href="/iperius-remote-desktop.aspx">Iperius Remote 4 (NEW!)</a> </li>
+
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/software-resellers.aspx">Become a RESELLER</a></li> 
+                              
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buy <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="/backup-software-windows.aspx">Buy Iperius Backup</a></li>
+                            <li><a href="/web-console-backup.aspx#buy">Buy Iperius Console</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx#buy">Buy Iperius Remote</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Buy Iperius Storage</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/software-resellers.aspx">Become a RESELLER</a></li>
+                          </ul>
+                        </li>
+                        <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/contact.aspx">Contact us</a></li>
+                        
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"></li>
+ 
+                    </ul>            		
+                  	<!--nav -->
+              
+              </div>
+              <!-- /.navbar-collapse -->
+
+  <a href="/index.aspx" class="pull-right d_none">
+                        <img src="http://iperiusbackup.in/img/logos/iperius_backup_logo_header.png" width="173" />
+                   </a>
+
+         </div><!-- /.container-fluid -->
+
+         <div class="pmd-sidebar-overlay"></div>
+
+    </nav>
+	<!--navbar end -->
+    
+    <!-- Nav menu with lang -->
+    <nav class="hidden-xs" style="top: 90px;position: relative;z-index: 1;">
+
+        <div class="container">
+
+             <div id="" class="collapse navbar-collapse pmd-navbar-sidebar " style="padding-right:0;">
+
+                <ul class="nav navbar-nav navbar-right">                    
+                 
+                    <li>
+                         <div  style="padding-top:7px;">
+                            <select name="ctl00$cbxLang" id="ctl00_cbxLang" class="combolingueheader form-control">
+	
+	<option selected="selected" value="en">English</option>
+	
+</select>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+           
+        </div>
+        <div class="pmd-sidebar-overlay"></div>
+    </nav>
+	
+
+
+
+<!-- main-bg -->
+<div class="main-bg animated fadeIn">
+	<!--header-title-bar -->
+	<div class="header-title-bar get-class" id="home">
+		<!--header-title-col -->
+		<div class="header-title-col">
+			<!--container-fluid -->
+			<div class="container">
+<!--banner-->
+				<div class="row">
+				   <div class="col-md-12">
+					 <div class="header-title text-center">
+                         <div id="ctl00_pnlSlider">
+	
+
+					        <h1 style="font-weight:bolder; margin-top:-25px;">Extend your data protection</h1><br />
+					        <div class="banner-content" style="color:#FFFFFF;">
+                                <i class="fa fa-hdd-o" style="padding-bottom:15px;"></i> &nbsp;Drive Image and Hard Disk Cloning &nbsp;&nbsp;&nbsp; <i class="fa fa-cloud-upload" style="padding-bottom:15px;"></i> &nbsp;Backup to Cloud, Google Drive, FTP, S3<br />
+                                <i class="fa fa-database"></i> &nbsp;Backup of SQL Server databases &nbsp;&nbsp;&nbsp; <i class="fa fa-envelope-o" style="padding-bottom:15px;"></i> &nbsp;Backup of Exchange and Office 365<br />                               
+                      
+                                
+                                <i class="fa fa-server" aria-hidden="true"></i> &nbsp;Backup and Replication of VMware ESXi, vCenter, ESXi Free - Hyper-V
+                                <!--Drive Image, backup su NAS, Cloud, FTP, Dropbox, OneDrive, Google Drive, S3
+                                <br />
+                                VMware ESXi, vCenter, ESXi Free, Hyper-V, Exchange, MySQL, SQL Server   -->                                                            
+					        </div><br />
+						    <a type="button" class="btn btn-lg pmd-ripple-effect pmd-btn-raised btn-primary" style="font-weight:bold; font-size:13pt;"  href="https://www.iperiusbackup.it/dsib.aspx"><i class="fa fa-download"></i> &nbsp; Free Download</a> &nbsp; 
+                             <a class="btn btn-default btn-lg pmd-ripple-effect" href="/backup-software-windows.aspx">More info</a> 
+                             <p class="iperius-version"></p>
+                            <div class="banner-content white" style="padding-top:20px;">
+                                Trusted by thousands of companies in more than 170 countries
+                            </div>
+					     
+</div>
+                      </div>
+                   </div>
+			</div>
+			</div>	
+			<!--container-fluid -->
+		</div>
+		<!--header-title-col -->
+	</div>
+	<!--header-title-bar -->
+    
+</div><!-- main-bg -->
+
+
+     <!-- Content Wrapper -->
+	<div class="contentWrapper">
+
+		<div class="center clearfix">
+			<!-- Additional clearfix necessary for non floated objects -->
+                
+                <!-- Content Starts - Header template should end here -->
+                
+
+
+
+
+<div class="container">
+
+<section id="features" class="container">
+    <div class="row">
+    <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12">                               
+        <br />
+       <div class="pmd-card pmd-card-default pmd-z-depth pmd-card-custom-form" style="min-height:750px;">
+		        <div class="pmd-card-title">
+                    <h2>Drive Image, P2V, Hard Disk cloning</h2>
+
+		        </div>
+                <div class="pmd-card-body" style="padding-top: 0px;"> 
+		    
+                        <p class="text">
+                            Full system backup and disaster recovery for workstations and servers. Recovery disc creation. Bare-metal restore even to dissimilar hardware. File-level recovery and restore to virtual environments. Hard disk to SSD cloning.
+                        </p>
+
+                    <h5>Supported features:</h5>
+                    <ul>
+                        <li>Drive image</li>
+                        <li>Hard disk cloning</li>
+                        <li>Recovery disk creation with pre-installed drivers</li>
+                        <li>Restore of individual files</li>
+                        <li>Restore to dissimilar hardware</li>
+                        <li>P2V: physical to virtual</li>
+                        <li>VHD and VHDX compatible formats</li>
+                        <li>Bare-metal restore</li>
+                        <li>Instant boot on Hyper-V</li>
+                    </ul>
+                            <br />     
+                                <a href="/drive-image-backup.aspx">More information</a>
+		        </div>     
+         </div>
+     </div>
+
+
+     <div  class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
+        <br />
+            <div class="pmd-card pmd-card-default pmd-z-depth pmd-card-custom-form" style="min-height:750px;">
+		            <div class="pmd-card-title">
+                        <h2>ESXi and Hyper-V Backup and Replication</h2>
+              
+
+			</div>
+                <div class="pmd-card-body" style="padding-top: 0px;"> 
+		    
+                                            <p class="text">
+                            Incremental Hyper-V (RCT) and VMware (CBT) backup. For ESXi, vCenter and ESXi Free. Replication even between ESXi Free hosts. Full or file-level recovery (granular restore). No per-socket, per-VM or per-host limitation.
+                        </p>
+                                 
+                    <h5>Supported features:</h5>
+                    <ul>
+                        <li>Incremental and Differential Backup ESXi / ESXi Free (CBT)</li>
+                        <li>Incremental replication host to host, also of ESXi Free</li>                        
+                        <li>It supports vCenter and ESXi Cluster</li>
+                        <li>Hyper-V Incremental and Differential Backup (RCT)</li>
+                        <li>Hyper-V backup from the network</li>
+                        <li>Backup of used space only (thin provisioning)</li>
+                        <li>Restore of individual files</li>
+                        <li>Unlimited Hosts and VMs</li>
+                    </ul>
+                            <br />                      
+
+                                <a href="/software-backup-esxi-hyper-v.aspx">More information</a>
+		        </div>     
+
+        </div>
+        </div>
+
+     <div  class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
+        <br />
+            <div class="pmd-card pmd-card-default pmd-z-depth pmd-card-custom-form" style="min-height:750px;">
+		            <div class="pmd-card-title">
+                        <h2>Cloud Backup, S3 Backup, FTP Backup</h2>
+              
+
+			</div>
+                <div class="pmd-card-body" style="padding-top: 0px;"> 
+		    
+                                            <p class="text">
+                            A unique and powerful solution to make offsite backups to Amazon S3, Google Drive, Dropbox, Azure Storage, OneDrive, FTP or SFTP servers, Iperius Storage, Wasabi, Aruba Cloud, Backblaze and any S3 compatible storage.
+                        </p>  
+                    
+                    <h5>Supported cloud services:</h5>
+                    <ul>
+                        <li>Amazon S3</li>
+                        <li>Any compatible S3 storage</li>
+                        <li>Google Drive</li>
+                        <li>Dropbox</li>
+                        <li>One Drive / OneDrive for Business</li>
+                        <li>Azure Storage</li>
+                        <li>Backblaze</li>
+                        <li>Wasabi</li>
+                        <li>Aruba Cloud</li>
+                        <li>IBM Cloud</li>
+                        <li>Any FTP(S) or SFTP server</li>
+                        <li>Iperius Storage S3 / FTP</li>
+                    </ul>
+                    <br />
+
+                                <a href="/ftp-backup-cloud-storage-online.aspx">More information</a>
+		        </div>     
+
+        </div>
+        </div>
+             
+
+        </div>
+
+
+    <div class="row">
+    <div class="col-sm-4 col-lg-4 col-md-4 col-xs-12">                               
+        <br />
+       <div class="pmd-card pmd-card-default pmd-z-depth pmd-card-custom-form" style="min-height:750px;">
+		        <div class="pmd-card-title">
+                    <h2>Backup of SQL Server, SQL Express, MySQL databases</h2>
+
+		        </div>
+                <div class="pmd-card-body" style="padding-top: 0px;"> 
+		    
+                        <p class="text">
+                            A complete and easy-to-use database backup software for SQL Server, SQL Express, MySQL, MariaDB, PostgreSQL, Oracle. Back up transaction logs and copy your backup to local or cloud destinations automatically.
+                        </p>
+
+                    <h5>Supported databases:</h5>
+                    <ul>
+                        <li>Microsoft SQL Server</li>
+                        <li>SQL Server Express</li>
+                        <li>MySQL</li>
+                        <li>MariaDB</li>
+                        <li>PostgreSQL</li>
+                        <li>Oracle</li>
+                        <li>Any VSS-Aware database (hot backup)</li>
+                        <li>Unlimited databases and servers</li>
+                    </ul>
+                    <br />
+                                 
+                                <a href="/backup-database.aspx">More information</a>
+		        </div>     
+         </div>
+     </div>
+
+
+     <div  class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
+        <br />
+            <div class="pmd-card pmd-card-default pmd-z-depth pmd-card-custom-form" style="min-height:750px;">
+		            <div class="pmd-card-title">
+                        <h2>Backup of Exchange and Exchange Online (Office 365)</h2>
+              
+
+			</div>
+                <div class="pmd-card-body" style="padding-top: 0px;"> 
+		    
+                                            <p class="text">
+                            Powerful backup for Exchange On-Premises and Exchange Online (Office 365). Protect automatically unlimited mailboxes and accounts with a single license. Compress, encrypt and save your backups to any local, FTP, S3 or cloud storage.
+                        </p>
+
+                    <h5>Supported features:</h5>
+                    <ul>
+                        <li>Incremental backup of Exchange On-Premise/Online (Office 365)</li>
+                        <li>Backup to .PST or .EML files</li>
+                        <li>Granular restore of individual mailboxes</li>
+                        <li>Image backup with log truncation</li>
+                        <li>Unlimited mailboxes and servers</li>
+                    </ul>
+                    <br />
+                                  
+                                <a href="/backup-exchange-software-export-mailboxes-pst.aspx">More information</a>
+		        </div>     
+
+        </div>
+        </div>
+
+     <div  class="col-sm-4 col-lg-4 col-md-4 col-xs-12">
+        <br />
+            <div class="pmd-card pmd-card-default pmd-z-depth pmd-card-custom-form" style="min-height:750px;">
+		            <div class="pmd-card-title">
+                        <h2>Iperius Console for centralized management and MSPs</h2>
+              
+
+			</div>
+                <div class="pmd-card-body" style="padding-top: 0px;"> 
+		    
+                                            <p class="text">
+                            Monitor and manage backups and systems using Iperius Console, a centralized dashboard where to see all the computers protected by Iperius Backup. You can see system information and open remote desktop sessions.
+                        </p>  
+                    
+                    <h5>Supported features:</h5>
+                    <ul>
+                        <li>Centralized management</li>
+                        <li>Check the status and errors of backups</li>
+                        <li>Hardware resource control (CPU, RAM, Disks)</li>
+                        <li>Remote desktop connection with Iperius Remote</li>
+                        <li>Remote backup scheduling and execution</li>
+                        <li>Management of users and permissions </li>
+                    </ul>
+                    <br />
+
+                                <a href="/web-console-backup.aspx">More information</a>
+		        </div>     
+
+        </div>
+        </div>
+
+
+        </div>
+
+
+</section>
+
+
+        <div class="row" style="padding-bottom:70px; padding-top:25px;">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center ">                
+                <a class="btn btn-primary btn-lg pmd-ripple-effect" type="button" href="/backup-software-windows.aspx">
+                    Buy now</a> &nbsp; &nbsp;
+                <a class="btn btn-lg btn-default pmd-btn-outline pmd-ripple-effect" type="button" href="/software-resellers.aspx">
+                    Become a Reseller</a>
+            </div>
+           
+        </div>
+
+
+  <div class="row hide">
+            <h2  style="text-align: center; margin-top:70px;">
+               </h2> <br>
+            <div class="col-sm-12 col-lg-4 col-md-4 col-xs-12">
+                <div>
+                    <a href="https://www.iperiusremote.com">
+                        <img class="img-responsive" src="./img/iperius_remote_logo_header.png">
+                    </a><br>
+                    <p class="text" style="padding-left: 22px; text-align: justify; min-height: 220px;">
+                        Remote control software for computers and servers. Remote desktop, remote support and file transfer. Shared list of computers and contacts, management of operators, groups, permissions and connection statistics. Can be installed as a service for unattended access.</p>
+                    <p class="text-center" style="padding-left: 22px;"><br>
+                        <a href="/iperius-remote-desktop.aspx" type="button" class="btn pmd-ripple-effect btn-primary pmd-btn-outline">
+                            Try now</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-lg-4 col-md-4 col-xs-12">
+                <div>
+                    <a href="/web-console-backup.aspx?src=is">
+                        <img class="img-responsive" src="./img/iperius_console_logo_header.png"></a><br>
+                    <p class="text" style="padding-left: 22px; text-align: justify; min-height: 220px;">
+                        The complete solution for monitoring backups and IT assets. Centralized dashboard, statistics, error detection, possibility of updating, planning and execution of backups remotely, management of groups, users and permissions.</p>
+                    <p class="text-center" style="padding-left: 22px;"><br> <a href="/web-console-backup.aspx"
+                            type="button" class="btn pmd-ripple-effect btn-primary pmd-btn-outline">
+                            Try now</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-sm-12 col-lg-4 col-md-4 col-xs-12">
+                <div>
+                    <a href="/iperius-backup-online-storage.aspx">
+                        <img class="img-responsive" src="./img/iperius_storage_logo_header.png">
+                    </a><br>
+                    <p class="text" style="padding-left: 22px; text-align: justify; min-height: 220px;">
+                        The professional space for online data backup. Cloud backup using FTPS or S3 protocol, with storage plans from 50 GB to 3 TB. Data is safe from breakdowns, theft, viruses or environmental disasters. Unlimited connections and ISO 27001 / GDPR certification.</p>
+                    <p class="text-center" style="padding-left: 22px;"><br>
+                        <a href="/iperius-backup-online-storage.aspx" type="button" class="btn pmd-ripple-effect btn-primary pmd-btn-outline">
+                            Try now</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+
+</div>
+
+
+<!--
+<section class="features-panel section-padding get-class" id="feature">
+    <div class="container text-center">
+        <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+                <div class="feature-block">
+                    <a href="/drive-image-backup.aspx" class="feature-block">
+                        
+                        <h2 class="block-title">
+                            <img class="animated fadeIn" src="/img/icons/drive_icon.png" />
+                            Drive Image</h2>
+                        <p class="block-content" style="text-align:justify">
+                            Iperius can create images of the whole disk, to allow you to automatically reinstall the system in a few clicks (bare metal restore). The disk image is made without any interruption or reboot (hot backup), and you can also restore it to dissimilar hardware.</p>
+                    </a>
+                </div>
+
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+                                <div class="feature-block">
+                    <a  href="/ftp-backup-cloud-storage-online.aspx" class="feature-block">
+                        
+                        <h2 class="block-title">
+                            <img class="animated fadeIn" src="/img/icons/cloud_icon.png" />
+                            Cloud, Google Drive, S3</h2>
+                        <p class="block-content" style="text-align:justify">
+                            Iperius can automatically send your backups to the most known an reliable cloud storage services, to easily have online backups on Google Drive, Amazon S3, Azure Storage, OneDrive, OneDrive For Business or Dropbox, with zip compression and AES 256 bit encryption.</p>
+                    </a>
+                </div>
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+
+
+                <a href="/software-backup-esxi.aspx" class="feature-block">
+                    
+                    <h2 class="block-title">
+                        <img class="animated fadeIn" src="/img/icons/virtual_icon.png" />
+                        ESXi / Hyper-V</h2>
+                    <p class="block-content" style="text-align:justify">
+                        Incremental and differential backup (CBT) of ESXi and ESXi Free. Incremental replication even between ESXi Free hosts. Compatible with vCenter and ESXi Cluster. Incremental and differential backup of Hyper-V (RCT). Automatic restore also on different hosts and recovery of single files.</p>
+                </a>
+
+
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+                <a href="/backup-database.aspx" class="feature-block">
+                    
+                    <h2 class="block-title">
+                        <img class="animated fadeIn" src="/img/icons/database_icon.png" />
+                        SQL Server / MySQL</h2>
+                    <p class="block-content" style="text-align:justify">
+                        Iperius is a powerful and easy-to-use backup software for Oracle, MySQL, MariaDB, PostgreSQL and SQL Server. It can make automatic backups, it supports compression and encryption of backup files and copying of backup files to any destination.</p>
+                </a>
+            </div>
+
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+                                <div class="feature-block">
+                    <a href="/ftp-backup-cloud-storage-online.aspx" class="feature-block">
+                        
+                        <h2 class="block-title">
+                            <img class="animated fadeIn" src="/img/icons/ftp_icon.png" />
+                            Hard Drive Cloning - P2V</h2>
+                        <p class="block-content" style="text-align:justify">
+                            Iperius is a powerful software to clone the hard disk. It can perform disk-to-disk cloning, create VHD or VHDX image files, restore individual files from image backups, perform bare metal restore using the Iperius Recovery Environment® media, convert physical machines to virtual machines and immediately start a backup as a VM on Hyper- V.</p>
+                    </a>
+                </div>
+            </div>
+
+
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+                <a href="/backup-exchange-software-export-mailboxes-pst.aspx" class="feature-block">
+                    
+                    <h2 class="block-title">
+                        <img class="animated fadeIn" src="/img/icons/exchange_icon.png" />
+                        Exchange / Office 365</h2>
+                    <p class="block-content" style="text-align:justify">
+                        Iperius is a complete backup software for Exchange. It is extremely efficient and easy to use, and allows you to export Exchange mailboxes to PST files, make hot backups with log truncation and restore individual mailboxes. Compatible with Exchange 2016, 2013 and 2010 SP1, Exchange Online (Office 365).</p>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+                <a href="/tape-backup-software.aspx" class="feature-block">
+                    
+                    <h2 class="block-title">
+                        <img class="animated fadeIn" src="/img/icons/tape_icon.png" />
+                        Tape Backup</h2>
+                    <p class="block-content" style="text-align:justify"">
+                        Iperius is an agile and powerful software to backup your data to any tape drive (LTO, DAT, etc.). Compression, password protection with AES encryption, automatic tape ejection, restore of individual files.</p>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+                                <div class="feature-block">
+                    <a href="/ftp-backup-cloud-storage-online.aspx" class="feature-block">
+                        
+                        <h2 class="block-title">
+                            <img class="animated fadeIn" src="/img/icons/ftp_icon.png" />
+                            FTP Backup / Sync</h2>
+                        <p class="block-content" style="text-align:justify">
+                            Iperius is a flexible and lightweight software to make multiple FTP transfers, to and from unlimited servers. You can make FTP backups in both Upload and Download directions, with zip compression, FTPS, AES encryption and bandwidth limitation.</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="vertical-align:top;">
+
+                <a href="/drive-image-backup.aspx" class="feature-block">
+                    
+                    <h2 class="block-title">
+                        <img class="animated fadeIn" src="/img/icons/usb_icon.png" />
+                        Disk backup / Network</h2>
+                    <p class="block-content" style="text-align:justify">
+                        Iperius can copy files and folders to any mass storage device, like NAS, external USB drives, RDX devices, computers in the network. Zip 64 compression, AES encryption, synchronization, and possibility to keep incremental backups.</p>
+                </a>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 hidden">
+
+                <a href="/web-console-backup.aspx" class="feature-block">
+                    
+                    <h2 class="block-title">
+                        <img class="animated fadeIn" src="/img/icons/console_icon.png" />
+                        Iperius Console</h2>
+                    <p class="block-content" style="text-align:justify">
+                        Thanks to this useful service, a company or a reseller can monitor the backup of all the computers where Iperius is installed, through a user-friendly and centralized Iperius Console.</p>
+                </a>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                <a href="/backup-software-windows.aspx#compare" class="btn pmd-ripple-effect btn-primary pmd-btn-outline btn-lg" type="button">More information</a>
+            </div>
+        </div>
+    </div>
+</section>
+Features section end-->
+
+<!--what's new section start-->
+<section class="whats-new-panel section-padding get-class hide">
+    <div class="container">
+        <h2 class="section-title text-center">FREE BACKUP SOFTWARE FOR SERVER AND WORKSTATIONS</h2>
+
+        <div class="row">
+            <div class="col-lg-7 col-md-7 col-sm-12 theme-banner pull-right">
+                <img class="img-responsive" src="/immagini/iperius_backup_maschere.png" alt="Iperius Backup Free" />
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12">
+                <div class="pmd-card-block pmd-card-no-space theme-detail">
+                    <h3 class="pmd-card-title-text blue-text">BACKUP FREE AND PROFESSIONAL SOLUTIONS</h3>
+                    <p class="pmd-card-text">Iperius is a complete Windows utility for data backup. You can use the Freeware version (also for Windows Server) to back up files to NAS, external disks, RDX drives, etc. without any time limitation - or choose an enterprise version, with plenty of backup functions and advanced features: copy of open files (VSS), Drive Image for disaster recovery, backup of ESXi and Hyper-V virtual machines, SQL Server and MySQL database backup, Exchange Server backup, backup to LTO Tape, backup to Cloud (Google Drive, Amazon S3, etc.), backup to FTP/SFTP .
+Starting from Iperius Free, a trial of the Full version can be activated to test all the features of the software.
+                        </p>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center"><br />
+                <a class="btn btn-top-space pmd-ripple-effect btn-primary pmd-btn-raised btn-lg" type="button" href="https://www.iperiusbackup.com/dsib.aspx">
+                    Download Iperius Free</a>                
+            </div>
+        </div>
+    </div>
+</section>
+<!--what's new section ends-->
+
+
+ <div id="discoveris" class="row  white" style="background:#02182a;padding-bottom:15px;">
+    <div class="col-lg-12 col-md-12 col-sm-12 text-center">                
+               <label class="text-center h1"> Discover the Iperius Suite</label>
+    </div>     
+</div>
+
+<section class="section-padding ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col-md-7 col-sm-12 pull-right">
+                <div class="pmd-card-block pmd-card-no-space theme-detail">
+        <h2><img class="avatar-list-img" style="border-radius: 0;" src="/img/logos/iconsole.png" />Iperius Console</h2>
+                    <h3 class="pmd-card-title-text">Centralized management of endpoints and backups</h3>
+                    <p class="pmd-card-text">Iperius Console is the advanced tool for centralized management and monitoring of your computers and backup. Using either the dedicated desktop application or just the web portal, you can view the results of your backup operations, examine the details of any errors, set and customize the backup schedulings and also run backup jobs remotely. The console integrates perfectly with all the products of Iperius Suite, allowing also to remotely update Iperius Backup to the latest version. The large amount of information provided keeps users updated about the status of every PC and Server where Iperius is installed, making Iperius Console an extremely useful IT Monitoring tool, both for your customers and your company.</p>                    
+                <a class="btn btn-top-space pmd-ripple-effect btn-secondary pmd-btn-raised btn-lg" type="button" href="/web-console-backup.aspx">More information</a>             
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 theme-banner ">
+                <img class="img-responsive" src="/immagini/console_responsive.png" alt="Iperius Console App" title="Iperius Console Web App" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center"><br />
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="section-padding section-remote">
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-5 col-md-5 col-sm-12 theme-banner pull-right">
+                <img class="img-responsive" src="/immagini/remote_mask.png" alt="Iperius Console App" title="Iperius Remote" />
+            </div>
+            <div class="col-lg-7 col-md-7 col-sm-12">
+                <div class="pmd-card-block pmd-card-no-space theme-detail">
+                    <h2 class="white"><img style="border-radius: 0;" class="avatar-list-img" src="/img/logos/iremote.png" />
+            Iperius Remote</h2>
+                    <h3 class="pmd-card-title-text white">The optimal software for remote assistance</h3>
+                    <p class="pmd-card-text white">Iperius Remote is the light and efficient software for remote desktop connection. It allows users to remotely connect to any Windows computer, for technical support, presentations, or customer service.
+The remote control of a PC was never this simple, including advanced features like bidirectional file transfer, multi-user chat and installing the software as a Windows service to enable the automatic access without any inputs by the operator.</p>                    
+                    <a class="btn btn-top-space pmd-ripple-effect btn-remote pmd-btn-raised btn-lg" target="_blank" type="button" href="/iperius-remote-desktop.aspx">More information</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center"><br />
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section-padding ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 col-md-7 col-sm-12 pull-right">
+                <div class="pmd-card-block pmd-card-no-space theme-detail">
+        <h2 class=""><img style="border-radius: 0;" class="avatar-list-img" src="/img/logos/istorage.png" />Iperius Storage</h2>
+                    <h3 class="pmd-card-title-text ">Professional Cloud Backup, from 50 GB to 3 TB - FTP or S3</h3>
+                    <p class="pmd-card-text ">The professional space for online data backup. Cloud backup using FTPS or S3 protocol, with storage plans from 50 GB to 3 TB. Data is safe from breakdowns, theft, viruses or environmental disasters. Unlimited connections and ISO 27001 / GDPR certification.</p>                    
+                     <a class="btn btn-top-space pmd-ripple-effect btn-storage pmd-btn-raised btn-lg" type="button" href="/iperius-backup-online-storage.aspx">More information</a>             
+                </div>
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-12 theme-banner ">
+                <img class="img-responsive" src="/img/storage_responsive.png" alt="Iperius Storage" title="Iperius Storage" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 text-center"><br />
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="roadmap-panel section-padding get-class hide" id="roadmap">
+    <div class="container">
+        <h2 class="section-title text-center">
+            IPERIUS BACKUP - Other key features:</h2>
+        <div class="row">
+            <div class="col-lg-5"><img class="img-responsive pmd-z-depth-2" src="/immagini/backupkeyfeat_mask.png" alt="Iperius Console App" title="Iperius Console Web App" /></div>
+            <div class="col-lg-7">
+                <ul class="">
+                    <li class="">
+                        Ransomware protection by detecting encrypted files</li>
+                    <li class="">
+                        Installation as Windows service</li>
+                    <li class="">
+                        Running of multiple and parallel backups</li>
+                    <li class="">
+                        Detailed reports</li>
+                    <li class="">
+                        Running of external scripts, processes and files, before and after the backup</li>
+                    <li class="">
+                        Chaining of backup jobs</li>
+                    <li class="">
+                        Special variables to easily customize paths and settings</li>
+                    <li class="">
+                        Unlimited backup jobs, unlimited source items, unlimited destinations</li>
+                    <li class="">
+                        Quick and automatic Restore of servers, VMs, databases, mailboxes</li>
+                    <li class="">
+                        Automatic authentication on network shares</li>
+                    <li class="">
+                        Planned and automated execution of each backup job</li>
+                    <li class="">
+                        Inclusion and exclusion filters based on file extensions</li>
+                    <li class="">
+                        Automatic computer shutdown after backup</li>
+                    <li class="">
+                        Backup procedures compliant with GDPR regulations (<a target="_blank" href="http://www.iperiusbackup.net/gdpr-e-backup-adeguarsi-alla-normativa-su-privacy-e-protezione-dati/">More information</a>)</li>
+                </ul>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+               
+                <!-- Content Ends - Footer template should start here -->
+		
+		</div>
+	</div>
+
+	<!--support section end-->
+
+    <!--footer start-->
+
+    
+	
+    <footer class="iperius-footer">
+       <div class="container-fluid text-center">
+            <div class="row" style="
+                        padding-bottom: 15px;
+                        margin-bottom: 20px;
+                        padding-top: 15px;
+                        padding-left: 50px;
+                        background: #e5e5e5;
+                        padding-right: 50px;
+                ">
+                <h6 style="color:#000;">
+                        <label>Iperius Backup is the ideal solution to backup and protect your important data. Iperius Backup is the software that completes your work.<br /><br /><a href="/contact.aspx"><b style="color:#000">Contact us</b></a>&nbsp;to talk directly to one of our experts.</label>
+				</h6>
+            </div>
+       </div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-2 visible-lg">
+                    <ul class="list-inline">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6  class="text-uppercase"> <img width="150"  src="/img/logos/logo.png"/></h6>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Contact Us</h6>
+                        </li>
+                        <li>ADDRESS:<br>
+1109, Nilamber Triumph, Nr. Bansal Mall, Nilamber Circle, Gotri - Vasna Road,
+Vadodara - 390 021 Gujarat India</li>
+<li></li>
+<li>
+PHONE:<br>
++91 265 296 0035, 299 0035,<br>
++91 99099 85114, (M) +91 98254 12230
+</li>
+<li></li>
+
+<li>E-MAIL:<br>
+sales@niftysolutions.co.in</li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Main navigation</h6>
+                        </li>
+                        <li><a href="/index.aspx">Home Page</a></li>
+						<li><a href="/download-software-backup.aspx">Free Download</a></li>
+						<li><a href="/backup-software-windows.aspx">Buy license</a></li>
+						<li><a href="/backup-software-windows.aspx">Features</a></li>
+						<li><a href="/contact.aspx">Contact us</a></li>
+                        
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                        
+                        <li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                           <h6 class="text-uppercase">Other information</h6>
+                        </li>
+                        <li><a href="/software-resellers.aspx">Become a Reseller</a></li>
+						<li><a href="/backup-windows-server.aspx">Complete solution</a></li>
+                        <li><a href="/eula.aspx">EULA</a></li>
+						
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul  class="list-inline text-left">
+                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6 class="text-uppercase">Info & Support</h6>
+                        </li>
+                         <li><a href="/faq.aspx">FAQ</a></li>
+                         <li><a href="/backup-tutorials/index-tutorials.aspx">Tutorials</a></li>
+						 <li><a target="_blank" href="http://www.iperiusbackup.net/en/how-to-uninstall-iperius-backup/">Uninstallation</a></li>
+						
+                         
+                    </ul>
+                </div>
+               
+            </div>
+            
+           
+        </div>
+    </footer>
+
+
+    <!--footer end-->
+  </form>
+
+
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+<div class="modal-dialog" style="background-color:#f5c30d;">
+
+    <!-- Modal content-->
+    <div class="modal-content" style="background-color:#f5c30d;">
+      <div class="modal-header" style="background-color:#fff; position:relative;">
+<div style="margin-left:auto; display:block; margin-right:auto; text-align:center; padding-bottom:5px;">
+    <img src="/img/logos/logo1.png">
+</div>
+        <button type="button" class="close" data-dismiss="modal" style="position:absolute; top:10px; right:10px;">×</button>
+      </div>
+ 
+      <div class="modal-body" style="padding:20px 0px;">
+<h1 style="color:#000; text-align:center;">
+We Nifty Solutions are <br>NATIONAL DISTRIBUTOR OF <br><b style="font-size: 50px;">IPERIUS BACKUP</b> <br>IN INDIA
+</h1>
+      </div>
+  
+    </div>
+</div>
+  </div>
+
+
+
+<script type='text/javascript' src='/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='/js/propeller.min.js'></script>
+<script type='text/javascript' src='/js/contact.js'></script>
+
+<script type="text/javascript">
+    $(window).on('load', function() {
+        $('#myModal').modal('show');
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,491 @@
+
+<!doctype html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html id="ctl00_html_tag" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Iperius Backup
+</title><link rel="shortcut icon" href="/favicon.ico" /><link rel="icon" href="/favicon.ico" type="image/x-icon" />
+   
+    <!-- Google icon -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" /><link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+
+    <!-- common css -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller-theme.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/landing-page.css" type="text/css" media="all" />
+
+    <!--css for custom carousel component -->
+    <link rel="stylesheet" href="/css/owl.carousel.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/theme-detail.css" type="text/css" media="all" />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="/css/iperius.css" type="text/css" media="all" />
+
+    <!-- css for custom animate component -->
+    <link rel="stylesheet" href="/css/animate.css" type="text/css" media="all" /><link rel="stylesheet" type="text/css" media="all" href="/css/lightbox.css" />
+
+    <!-- script for jquery library -->
+    <script type='text/javascript' src='/js/jquery-1.12.2.min.js'></script>
+
+    <script type='text/javascript' src='/js/bootstrap.min.js'></script>
+
+    <meta name="robots" content="index,follow" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link rel="alternate" href="https://www.iperiusbackup.co.uk" hreflang="en-GB" /><link rel="alternate" href="https://www.iperiusbackup.es" hreflang="es" /></head>
+	<body>
+    
+    <form name="aspnetForm" method="post" action="./privacy-gdpr.aspx?lang=en" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyMTMzODg1NmRkjclT7yzojgeozig/t4pNALqT152ICe7K+jsoZ1xB2NE=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA1A7A63" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAwm4P/MrLT/s4aGXGTpsMz3X7Xvzb09p206mAKQZG+aDJPRk2hFk/5agF2+zHdQ3W5U/HBf1RoocDPthgLqXNyrTIwYQXQ20EFgaHyGmWMWfas0HRGwuXjfgETeM6D4LZquWm7ON6K45djYmt44BnQHn83eB8e9VUvbppsii+z+3mxBy7f4n7Dbnq3Obxu64ar37Z3w61jMIuKFEgTXzWy1GeAdHJefdjqKkWMUYuHrRWUmEbhrldhHyxc7q13HwZRF0DjcFcpYDiYpjZmIUHONKtSSWKd0hSuSmjs20lchWQ==" />
+   
+		<!-- Site Wrapper Start -->
+		<div class="siteWrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+			<!-- Site Header -->
+            
+
+<!--navbar start -->
+	<nav class="navbar navbar-inverse pmd-navbar navbar-fixed-top">
+
+         <div class="container">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <button class="pmd-ripple-effect navbar-toggle pmd-navbar-toggle" type="button">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <!--logo-->
+                  <a href="/index.aspx" class="navbar-brand">
+                        <img src="/img/logos/logo.png" width="173" />
+                   </a>
+              
+              
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div id="bs-example-navbar-collapse-2" class="collapse navbar-collapse pmd-navbar-sidebar">
+                   
+                    <a href="/backup-tutorials/index-tutorials.aspx"></a> &nbsp; &nbsp;
+                  
+            		<!--nav -->
+            		<ul id="menu-top-menu" class="nav navbar-nav navbar-right">
+                        <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/download-software-backup.aspx" title="Iperius Backup Freeware" >Free Download</a></li>
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Solutions <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            
+                            <li><a href="/drive-image-backup.aspx">Drive Image Backup / Disk cloning / P2V</a></li>
+                            <li><a href="/ftp-backup-cloud-storage-online.aspx">Backup to Cloud, S3 e FTP</a></li>
+                            <li><a href="/backup-database.aspx">SQL Database Backup</a></li>
+                            <li><a href="/software-backup-esxi-hyper-v.aspx">Backup VMware ESXi/Free, vCenter</a></li>
+                              <li><a href="/software-backup-esxi-hyper-v.aspx">Backup Hyper-V</a></li>
+                            <li><a href="/backup-exchange-software-export-mailboxes-pst.aspx">Backup Exchange Server / Online (Office 365)</a></li>
+                            <li><a href="/tape-backup-software.aspx">Backup to Tape (LTO)</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Centralized Management - IT/Backup Monitoring</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Cloud Storage (FTPS / S3)</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx">Remote Desktop - Remote Support</a></li>
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                              <li><a href="/software-backup-free.aspx">Iperius Backup <strong>Free</strong></a></li> 
+                              <li><a href="/iperius-backup-desktop.aspx">Iperius Backup Desktop</a></li> 
+                              <li><a href="/backup-software-windows.aspx">Iperius Backup (All versions)</a></li> 
+                              <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Iperius Console</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Iperius Cloud Storage</a></li>
+                            <li><a style="color:#ff6d3f; font-weight:bold;" href="/iperius-remote-desktop.aspx">Iperius Remote 4 (NEW!)</a> </li>
+
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/contact.aspx">Become a RESELLER</a></li> 
+                              
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buy <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="/backup-software-windows.aspx">Buy Iperius Backup</a></li>
+                            <li><a href="/web-console-backup.aspx#buy">Buy Iperius Console</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx#buy">Buy Iperius Remote</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Buy Iperius Storage</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/contact.aspx">Become a RESELLER</a></li>
+                          </ul>
+                        </li>
+                        <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/contact.aspx">Contact us</a></li>
+                        
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"></li>
+ 
+                    </ul>            		
+                  	<!--nav -->
+              
+              </div>
+              <!-- /.navbar-collapse -->
+         </div><!-- /.container-fluid -->
+
+         <div class="pmd-sidebar-overlay"></div>
+
+    </nav>
+	<!--navbar end -->
+    
+            
+		    <div class="header-title-bar container" style="height:auto;">
+                        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 breadcrumb" >                                                         
+                            <span style="font-size:10pt;">The complete and flexible backup software for Windows </span>                             
+                    </div>
+                                          <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-left" >
+            
+                        <div class="form-group">
+                        <select name="ctl00$cbxLang" id="ctl00_cbxLang" class="form-control">
+		<option selected="selected" value="en">English</option>
+</select>
+                    </div>
+                </div> 
+            </div> 
+
+            <!--banner-->         
+	           
+			<!-- Content Header -->
+            <!--header-title-bar -->
+         
+           
+			<!-- Content Wrapper -->
+			<div class="contentWrapper">
+                 
+				<div class="center clearfix">
+					<!-- Additional clearfix necessary for non floated objects -->
+					<div class="clearfix">
+					</div>
+					<!-- Content Starts - Header template should end here -->
+					<!--Left layout column -->
+					<div class="container" id="app" > 
+
+
+
+                    
+    <div class="col-lg-12 col-md-12 col-sm-12">
+        <h1>Privacy Policy - GDPR Regulations</h1><br />
+        <link rel='stylesheet' href='/css/tablestyles.css' type='text/css' media='all' /><br /><p><br />    <span style="margin: 0px; font-weight: normal; font-size: x-large;">Information on the processing of personal data</span> <br /><br />    (Article 13 of Legislative Decree no. 196/2003 - Privacy Code - Article 13 of the EU General Regulation on the protection of personal data No. 679/2016) <br /><br />    Enter Srl, a limited liability Company that carries out software development and management consulting activities, based in Grottammare (AP) 63824, Italy, Via C.A. Dalla Chiesa 18, VAT ID IT01524500442,<br />    holder of the processing of personal data pursuant to Articles 4 and 28 of Legislative Decree 30 June 2003, n. 196 - Code of the privacy and of the articles 4, n. 7) and 24 of EU Regulation 2016/679 of 27 April 2016 on the protection of individuals with regard to the processing of personal data pursuant to art. 13 of the Code and 13 of the Regulations that will proceed to the processing of personal data relating to the Company and to the natural persons who have the legal representation for the purposes and with the methods indicated below.<br />    <br /><br />    The privacy policy explains how we use the personal information we collect about you when you use this website and our other services.<br /><br />    <strong> What is personal data? </strong><br /><br />    Personal data refers to any information relating to an individual, which can make it identifiable and which may include (but not limited to):<br /></p><br /><ul style="line-height: 20px;"><br />    <li>Names and contact information ie emails and telephone numbers</li><br />    <li>National insurance numbers</li><br />    <li>Employment history</li><br />    <li>Employee numbers</li><br />    <li>Credit history</li><br />    <li>Personal tax</li><br />    <li>Accounting data</li><br /></ul><br /><strong> What is sensitive personal data? </strong> <br /><br />Sensitive personal data may refer to what is listed above but also include genetic data and biometric data. For example:<br /><ul style="line-height: 20px;"><br />    <li>Medical conditions</li><br />    <li>Religious or philosophical beliefs and political opinions</li><br />    <li>Racial or ethnic origin</li><br />    <li>Convictions</li><br />    <li>Biometric data (eg photo in an electronic passport)</li><br /></ul><br /><strong> What is the DPO? </strong> <br /><br />  For the purpose of compliance with the GDPR regulations, the &quot;data controller&quot; indicates the person or organization that decides the purposes for which and the way in which personal data is processed.<br />  Enter Srl will then appoint, maintain and train internally a professional figure with responsibility for DPO, which can always be reached by telephone at the number (+39) 0735 582337.<br /><br /><br /><br /><br /><strong> What is data processing? </strong> <br /><br />  Data processing is any operation or set of operations performed on personal data, or set of it, either by automated systems or not. Examples of data processing explicitly listed in the text of the GDPR are: collecting, recording, organising, structuring, archiving, adaptating, modifying, retrieving, consulting, using, disclosing by transmission, disseminating or making available, aligning or combining, restricting, erasure or destruction.</strong><br /><br /><br /><strong> What information do we collect about you and how? </strong> <br /><br />  The controller of data processing is bound by the requirements of the general data protection rules (GDPR).<br />  When you decide to use our services, you agree that we have the right to obtain, use and process the information you provide to us, to enable us to give you the best possible user experience and for other related purposes, including;<br /><ul style="line-height: 20px;"><br />    <li>Updating and improving customer records</li><br />    <li>Analysis for management purposes</li><br />    <li>Statistical analysis</li><br />    <li>Legal and regulatory compliance</li><br />    <li>Prevention of crime.</li><br /></ul><br />We collect information about you when you fill out one of the forms on our website, for example by submitting a request, creating an account, completing a survey, giving feedback etc. The information on the use of the website is collected using cookies.<br /><br /><strong> Cookies </strong> <br /><br />Cookies are text files that are saved on your computer to collect technical information and information on visitors behavior. This information is then used to track the use of website visitors and to create statistical reports on website activity.<br />For more information visit <a href="https://support.google.com/chrome/answer/95647" style="text-decoration: underline;">https://support.google.com/chrome/answer/95647</a>.<br />You can set your browser to not accept cookies or remove cookies from your browser. In some cases, some features of our website may not work because of this.<br /><br /><strong> Google Analytics </strong><br /><br />We use Google Analytics and / or similar third-party tools to store information about how visitors use our website so we can make improvements and offer visitors a better user experience.<br />Google Analytics is a third-party information storage system that records information about the pages you visit, the time you were on specific pages and the website in general, how you landed to the site and what you clicked when you were there. These cookies do not store any personal information about you, e.g. Name, address etc. And we do not share the data. You can view Google's privacy policy and cookies at the following link: <a href="http://www.google.com/intl/en/policies/privacy/" style="text-decoration: underline;">http://www.google.com/intl/en/policies/privacy/</a><br /><br /><strong> IP addresses </strong> <br /><br />An IP address or Internet Protocol is a unique numerical address assigned to a computer when it accesses the Internet. Enter Srl does not have access to any personally identifiable information and we will never look for this information. Your IP address is recorded when you visit our websites, but our analysis software only uses this information to track the number of visitors from certain regions.<br /><br /><strong> Internet-based advertising </strong> <br /><br />We use AdRoll, Linkedin, Facebook and Twitter advertising services, for which monitoring codes are then installed on our website so that we can manage the effectiveness of these advertising campaigns. We do not store any personal data within this type of tracking.<br /><br /><strong> How will we use information about you and why? </strong> <br /><br />We at Enter Srl take your privacy seriously and will use your personal information only to provide the services you have requested. We will only use this information based on your instructions, data protection law and our confidentiality obligation.<br />Our work for you may require that we transmit your information to our third-party service providers, agents, subcontractors and other associated organizations for the purpose of completing our activities and providing services on our behalf. However, when we use third-party service providers, we disclose only the personal information necessary to provide our services and we have contracts in place that require them to keep your information protected and not to use it for their direct marketing purposes.<br />We collect information on our website to process your requests, manage the recording of events, provide help based on the data collected and improve our services. If you consent, we will also use this information to share updates with you about our services that we believe may be of interest to you.<br />We will not share your information for marketing purposes with companies so that they can offer you their products and services.<br /><br /><strong> Transferring information outside Europe</strong><br /><br />As part of the services offered to you through this website, the information you provide to us may be transferred to countries outside the European Union (&quot;EU&quot;).  For example, some of our third-party suppliers may be outside the EU. In this case, we will take measures to ensure that the right security measures are taken so that your privacy rights continue to be protected as indicated in this statement.  By submitting your personal information, you agree this transfer, storage or processing.<br />If you use our services while you are outside the EU, your information may be transferred outside the EU to provide these services.<br /><br /><br /><strong>Safety precautions in place about data collected</strong><br /><br />When you provide us with personal information, we take all necessary security measures to ensure that they are processed securely. Any sensitive information is encrypted during storage, backup and transfer. When you're on a secure page (HTTPS), a lock icon will appear at the top of web browsers such as Microsoft Internet Explorer, Google Chrome, or Firefox.<br />Non-sensitive details (your e-mail address, etc.) are normally sent over the Internet and this can never be guaranteed as 100% secure. As a result, while we strive to protect your personal information, we can not guarantee the security of the information you transmit to us at your own risk. Once we receive your information, we do our best to ensure its security on our systems. Where we have provided (or where you have chosen) a password that allows you to access certain parts of our websites, you are responsible for keeping this password confidential and for modifying it once it has been sent to you. We ask that you do not share your password with anyone.<br /><br /><strong>Profiling </strong> <br /><br />We may analyze your personal information to create a profile of your interests and preferences so that we can contact you with information relevant to you. We can make use of additional information about you when it is available from external sources to help us do it effectively. We may also use your personal information to detect and reduce fraud and credit risk.<br /><br /><strong>Marketing</strong> <br /><br />We would like to send you information about our services that may interest you. If you have consented to receive advertising and marketing information, you may choose to withdraw at any time as indicated below.<br />You have the right at any time to prevent us from contacting you for marketing purposes. To cancel, send an email by filling out the form at the following address: <a href="https://www.iperiusbackup.com/contact.aspx" style="text-decoration: underline;">https://www.iperiusbackup.com/contact.aspx</a>.<br /><br /><strong>How long will we keep your data? </strong> <br /><br />In line with our regulatory requirements, we will retain your data for the minimum time required by current tax legislation. In case you need it, you will have the possibility to renounce or update or delete data at any time and information on how to do it are indicated in this statement.<br /><br /><br /><strong> Access information, correction, portability and deletion</strong><br /><br /><br /><strong>What is an access request per subject?</strong><br /><br />It is your right to request a copy of the information we have in our possession. If you would like a copy of some or all of your personal information, please send us an email by filling out the form at the following address: <a href="https://www.iperiusbackup.com/contact.aspx" style="text-decoration : underline; ">https://www.iperiusbackup.com/contact.aspx</a>, or contact us by phone at (+39) 0735 582337. We will respond within one month of receiving your request.<br />We want to make sure that your personal information is accurate and up-to-date. You can ask us to correct or remove the information that you think is inaccurate by contacting us through the procedures above.<br /><br /><strong>Objections to the processing of personal data</strong><br /><br />It is your right to make an objection to the processing of your personal data. The only reason we can refuse to process your request is if we are able to demonstrate valid and legitimate reasons that in the specific case exceed your interest, your rights and your freedoms, or when the processing of data is aimed at establishment, operation or defense of legal claims.<br /><br /><strong>Data portability</strong> <br /><br />You are also entitled to receive the personal data you have provided to us, in a structured format, commonly used and readable by a machine and entitled to transmit this data to another controller without delay from the current controller if:<br />(a) Processing is based on consent or a contract<br />(b) Processing is carried out by an automated process.<br /><br /><strong>Your right to be forgotten</strong><br /><br />If you wish us to completely erase all information about you, you can let us know by phone at (+39) 0735 582337, or by e-mail by filling out the form at the following address: <a href="https://www.iperiusbackup.com/contact.aspx" style="text-decoration: underline;">https://www.iperiusbackup.com/contact.aspx</a>.<br /><br /><strong> Other websites </strong> <br /><br />Our website contains links to other websites. This privacy policy applies only to this website, so when linking to other websites it is necessary to read their relative privacy information.<br /><br /><strong>Complaints</strong> <br /><br />If you believe that your personal data has been processed in a way that does not meet the GDPR, you have a specific right to file a complaint with the appropriate supervisory authority. The supervisor will inform you of the progress and results of your complaint.<br /><br /> <strong> Changes to our privacy policy </strong> <br /><br />We maintain our privacy information constantly revised and will post any updates on this web page.<br /><br /><strong>How to contact us</strong><br /><br />Please contact us if you have any questions about our privacy policy or your personal information:<br /><ul style="line-height: 20px;"><br />    <li>Via email by filling out the form at the following address: <a href="https://www.iperiusbackup.com/contact.aspx" style="text-decoration: underline;">https://www.iperiusbackup.com/contact.aspx</a></li><br />    <li>By telephone at (+39) 0735 582337</li><br /></ul><br />--------------------------------------------------------------------------------<br /><br /><span style="margin: 0px; font-weight: normal; font-size: x-large;"><br />    INFORMATION ON THE PROCESSING OF PERSONAL DATA THROUGH THIS WEB SITE<br /></span><br /><br />    We provide the following information on the methods of processing personal data collected following interaction with the website starting from the URL https://www.iperiusbackup.com and related geographical websites (.de, .fr, .co.uk, .jp, .it, .net, .es, .com.br, .ru, .nl).<br />    <br />    If you leave the domain https://www.iperiusbackup.com and visit other websites whose links can also be inserted in the web pages published on the site https://www.iperiusbackup.com , reference should be made to the information on protection of personal data of the aforementioned other websites.<br /><strong><br />    Definitions and legal references<br /></strong><br /><strong><br />    Personal Data (or Data)<br /></strong><br />    Personal information is any information that, directly or indirectly, even in connection with any other information, including a personal identification number, makes an individual identified or identifiable.<br /><strong><br />    Usage Data<br /></strong><br />    The information is automatically collected through this Website (including from third-party applications integrated into this Website), including: the IP addresses or domain names of the computers used by the User that connects with this Website, the addresses in URI ( Uniform Resource Identifier ) notation , the time of the request, the method used in forwarding the request to the server, the size of the file obtained in response, the numeric code indicating the status of the response from the server (success, error, etc. .) the country of origin, the characteristics of the browser and operating system used by the visitor, the various temporal connotations of the visit (for example the time spent on each page) and the details of the itinerary followed within the Application, with particular reference to the sequence of the pages consulted, to the parameters relating to the operating system and the IT environment of the User.<br /><strong><br />    User<br /></strong><br />    The individual who uses this Web Site which, unless otherwise specified, coincides with the interested party.<br /><strong><br />    Interested<br /></strong><br />    The natural person to whom the Personal Data refers.<br /><strong><br />    Data Processor (or Manager)<br /></strong><br />    The natural person, legal person, public administration and any other entity that processes personal data on behalf of the Data Controller, as set out in this privacy policy.<br /><strong><br />    Data Controller (or Owner)<br /></strong><br />    The natural or legal person, public authority, service or other body which, individually or together with others, determines the purposes and means of processing personal data and the instruments adopted, including security measures relating to the functioning and the use of this Website. The Data Controller, unless otherwise specified, is the owner of this Site, ENTER Srl , with its registered office at: via S. Michele 16 - 63064 Cupra Marittima (AP), telephone number: + 39 0735 582337, e-mail address info@entersoftware.it, certified e-mail address info@pec.entersrl.it .<br /><strong><br />    This Website<br /></strong><br />    The hardware or software tool through which Users' Personal Data are collected and processed.<br /><strong><br />    Service<br /></strong><br />    The Service provided by this Website as defined in the relevant terms (if any) on this site / application.<br /><strong><br />    European Union (or EU)<br /></strong><br />    Unless otherwise specified, any reference to the European Union contained in this document is intended to be extended to all current member states of the European Union and the European Economic Area.<br /><strong><br />    Cookie<br /></strong><br />    Small portion of data stored in the User's device.<br /><strong><br />    Legal references<br /></strong><br />    This privacy statement is drafted on the basis of multiple legislative systems, including articles 13 and 14 of Regulation (EU) 2016/679.<br /><br />    This privacy policy applies exclusively to this Website.<br /><strong><br />    Types of data collected<br /></strong><br />    The Website collects Personal Data independently or through third parties or through voluntary communication by the interested party.<br />    Among the Personal Data collected there are: Cookies, Usage data, emails, unique identifiers of advertising devices (Google Advertiser ID or IDFA identifier, for example), IP addresses, domain names of computers used by users who connect to the site, the URI ( Uniform Resource Identifier ) addresses of the requested resources, the time of the request, the method used in submitting the request to the server, the size of the file obtained in response, the numeric code indicating the status of the answer given from the server (good purpose, error, etc.) and other parameters relating to the operating system and the user's computer environment, the geographical position, the language, the name, the surname and telephone number , the e-mail address .<br /><br />    Full details of each type of data collected are provided in the dedicated sections of this privacy policy or through specific information texts displayed before the data is collected.<br /><br />    The Personal Data may be freely provided by the User or, in the case of Usage Data, collected automatically when using this Website.<br /><br />    Unless otherwise specified, all Data required by this Website is required . If the User refuses to communicate them, it may be impossible for this Website to provide the Service. In cases where this Website indicates some Data as optional, Users are free to refrain from communicating such Data, without this having any consequence on the availability of the Service or on its operation.<br /><br />    Users who have doubts about which data are mandatory, are encouraged to contact the owner.<br /><br />    Any use of Cookies - or other tracking tools - by this Website or third-party owners used by this Website, unless otherwise stated, is intended to provide the Service requested by the User, in addition to to the additional purposes described in this document and in the Cookie Policy, if available.<br /><br />    The User assumes the responsibility of the Personal Data of third parties obtained, published or shared through this Website and guarantees to have the right to communicate or disseminate them, freeing the Owner from any liability to third parties.<br /><strong><br />    Treatment modalities<br /></strong><br />    The Owner uses a wide range of security measures in order to improve the protection and maintenance of security, integrity and accessibility of your personal data.<br /><br />    All your personal data are stored on our secure servers (or secure paper copies) or on those of our suppliers or our business partners, and are accessible and usable according to our standards and our security policies (or equivalent standards for our suppliers or business partners).<br /><br />    We adopt, among others, measures such as:<br /><br />    - the strict restriction of access to your personal data, based on need and for the sole purposes communicated;<br /><br />    - perimeter security systems to prohibit unauthorized access from outside;<br /><br />    - permanent monitoring of access to information systems to identify and stop the abuse of personal data;<br /><br />    - transactions on our websites that require the entry of your personal data are encrypted using SecureSocketLayer (SSL) technology<br /><br />    Processing is carried out using organizational methods and logics strictly related to the purposes indicated .<br /><br />    In addition to the Owner, in some cases, other parties involved in the organization of this Website (administrative, commercial, marketing, legal, system administrators) or external parties (such as third party technical service providers, postal couriers , hosting providers, IT companies, communication agencies) also appointed, if necessary, Data Processors by the Owner. The updated list of data processors may always be requested from the Data Controller.<br /><strong><br />    Place<br /></strong><br />    The Data is processed at the Data Controller's operating offices and in any other place where the parties involved in the processing are located. For more information, contact the owner.<br /><br />    The User's Personal Data may be transferred to a country other than the one in which the User is located. To obtain further information on the place of treatment, the User can refer to the section on the details on the processing of Personal Data.<br /><br />    The User has the right to obtain information regarding the legal basis of the transfer of Data outside the European Union or to an international organization of public international law or constituted by two or more countries, such as the UN, as well as regarding the security measures adopted by the Data Controller to protect the Data.<br /><br />   The User can verify if one of the transfers described above takes place by examining the section of this document concerning the details on the processing of Personal Data or request information from the Owner by contacting him at the details indicated at the beginning.<br /><strong><br />    Cookie Policy<br /></strong><br />    This Website uses Cookies.<br /><br />    Cookies are computer files or partial data consisting of text strings that can be saved on your computer (or other devices enabled for internet browsing ) when you visit a website.<br /><br />    Usually a cookie contains the name of the website from which the cookie comes, the duration of the cookie (how long it will remain on your device), and a value, which is usually a randomly generated unique number.<br /><br />    Some cookies are strictly necessary for the functionality of the site, others allow you to optimize performance and offer a better user experience, while others are used to collect data relating to user behavior on the website.<br /><br />    Cookies have a precise duration and can be divided into:<br /><br />    - persistent: once the browser is closed they are not destroyed but remain up to a preset expiration date;<br /><br />    - session: they are destroyed every time the browser is closed.<br /><br />    Technical cookies are necessary for the proper functioning of some areas of the site or to improve the browsing experience in the user.<br /><br />    Without these cookies, the site or parts of it may not work as expected.<br /><br />    The technical cookies on this site are intended to improve the navigation of the site itself; remember your consent to the use of cookies, in order not to require authorization after opening each web page.<br /><br />    Analytical cookies are used to collect information on the use of the site by users and collect aggregated data regarding the number of users who have visited the website and its behavior.<br /><br />    Third-party cookies are used to integrate products and functions of third-party software, such as third-party domains and partner sites that offer their functionality among the pages of the site.<br /><br />    Below is the list of cookies installed by the site https://www.iperiusbackup.com /.<br /><br /><br />    &nbsp;<br /><table class="mytable2" style="width:100%; margin-top:0px;">        <tr>            <td width="175">Nome</td>            <td width="85">Scadenza</td>            <td width="228">Scopo</td>            <td width="176">Azienda</td>        </tr>        <tr>            <td width="175">__utm.gif</td>            <td width="85">Sessione</td>            <td width="228">Fornisce dettagli sul visitatore del sito</td>            <td width="176">doubleclik.net</td>        </tr>        <tr>            <td width="175">__utma</td>            <td width="85">2 anni</td>            <td width="228">Raccoglie dati sul numero di v olte in cui un utente visit ail sito web.</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">__utmb</td>            <td width="85">1 giorno</td>            <td width="228">Cookie utilizzato per calcolare il tempo di permanenza sul sito.</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">__utmc</td>            <td width="85">Sessione</td>            <td width="228">Cookie utilizzato per calcolare il tempo di permanenza sul sito.</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">__utmt</td>            <td width="85">1 giorno</td>            <td width="228">Cookie utilizzato per accelerare I tempi di risposta delle richieste ai server.</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">__utmv</td>            <td width="85">1 giorno</td>            <td width="228">Cookie utilizzato per tracciare I visitare del sito</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">__utmz</td>            <td width="85">6 mesi</td>            <td width="228">Cookie utilizzato per tracciare alcuni comportamenti di navigazione del visitatore.</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">_wingify_pc_uuid</td>            <td width="85">9999 giorni</td>            <td width="228">Cookie tecnico utilizzato dagli operatori del sitoper verificare la migliore versione del sito.</td>            <td width="176">Enter Srl</td>        </tr>        <tr>            <td width="175">ads/ga-audiences</td>            <td width="85">Sessione</td>            <td width="228">Cookie usato dai servizi di Google per seguire il visitatore nella sua navigazione in rete.</td>            <td width="176">Google</td>        </tr>        <tr>            <td width="175">wingify_donot_track_actions</td>            <td width="85">9999 giorni</td>            <td width="228">Cookie tecnico.</td>            <td width="176">Enter Srl</td>        </tr>    </table><br /><strong><br />    Consent to the installation of cookies<br /></strong><br />        Browsing the site https://www.iperiusbackup.com , we consider the use of cookies and other personal data deriving from the use of software and internet protocols as authorized, also in consideration of the presence of elements of discontinuity to the navigation (banners) that warn the visitor of the presence of this processing of his personal data, allowing him to express his consent, receive more information and then set his own preferences.<br /><strong><br />    How can I express consent to the installation of Cookies?<br /></strong><br />        In addition to what is indicated in this document, the User can manage the preferences for Cookies directly from within his browser and prevent - for example - that third parties can install them. Through the browser preferences it is also possible to delete the Cookies installed in the past, including the Cookie in which the consent to the installation of Cookies by this site is eventually saved. The User can find information on how to manage Cookies with some of the most popular browsers such as the following addresses: Google Chrome , MozillaFirefox , Apple Safari and Microsoft Internet Explorer .<br /><br />        With reference to cookies installed by third parties, the User can also manage his own settings and revoke the consent by visiting the related opt out link (if available), using the tools described in the privacy policy of the third party or by contacting the same directly.<br /><br />        Notwithstanding the foregoing, the User may use the information provided by EDAA (EU), Network Advertising Initiative (USA) and Digital Advertising Alliance (USA), DAAC (Canada), DDAI (Japan) or other similar services. With these services it is possible to manage the tracking preferences of most advertising tools. The Data Controller therefore advises Users to use these resources in addition to the information provided in this document.<br /><strong><br />    Purpose of data processing<br /></strong><br />        The processing of personal data must be legitimized by one of the legal requirements provided for by the current legislation on the protection of personal data as described below.<br /><br />        a) Establishment and execution of contractual relations and consequent obligations, including the communication relating to services (for example, to start after-sales services)<br /><br />        The Data Controller may process your contact data for the purpose of establishing and executing contractual relationships, providing the services requested and responding to reports and complaints.<br /><br />        The Data Controller may also use your contact details, and in particular to collect your email, to provide information relating to the service.<br /><br />        Condition for processing: fulfillment of contractual obligations.<br /><br />        The provision of data is mandatory to manage the contractual relationship; in default we will not be able to give you course.<br /><br />        b ) Compliance with legally binding requests to fulfill a legal obligation, regulations or provisions of the judicial authority, as well as to defend a right in court.<br /><br />        The Data Controller collects the Data to fulfill a legal obligation and / or to defend a legal right in court.<br /><br />        Prerequisite for processing: legal obligations and legitimate interest of the Owner.<br /><br />        c ) Contacts from mailing lists or newsletters: by registering to the mailing list or to the newsletter, the User's email address is automatically inserted into a list of contacts to which email messages containing information, including commercial and promotional, may be transmitted , relating to our business.<br /><br />        The Data collected through the form from the site or by telephone contact for this purpose : email, name, surname, company data, telephone number, address, city, province, zip code, company name, website.<br /><br />        Prerequisite for processing: the consent of the interested party who subscribes to the newsletter service and the legitimate interest of the data controller to continue the service, given the evidence that the recipient of the newsletter service interacts with the content of the message.<br /><br />        d ) information requested by contact form and request for information: the user who visits the site has the right to fill in the contact sections in order to request and receive information having to communicate their data such as name and surname, email address, address and phone number. The assumption for the treatment is the consent of the interested party.<br /><strong><br />    How long we keep Personal Data<br /></strong><br />        We keep your personal data only for the time necessary to achieve the purposes for which they were collected or for any other legitimate related purpose. Therefore, if the personal data are processed for two different purposes, we will keep such data until the purpose for the longer term has ceased, but we will no longer treat personal data for that purpose whose retention period has ceased.<br /><br />        We limit access to your personal data only to those who need to use them for relevant purposes.<br /><br />        Your personal data that are no longer necessary, or for which there is no longer a legal prerequisite for its conservation, are irreversibly anonymized (and thus can be stored) or destroyed in a secure manner.<br /><br />        Below are the storage times in relation to the different purposes listed above:<br /><br />        a ) and b ) Fulfillment of contractual and legal obligations : the data processed to fulfill any contractual obligation may be kept for the entire duration of the contract and in any case not later than 10 years, in order to verify any outstanding claims including accounting documents ( for example invoices). In the event of disputes: in the event that we defend or act or even make claims against you or third parties, we may retain the personal data that we consider to be reasonably necessary to process for these purposes, for as long as this claim can be prosecuted.<br /><br />        c ) Contacts from mailing lists or newsletters: they can be kept for 24 months from the date you register for the service or from the last date on which we obtained evidence of use of the contents of the service.<br /><br />        d ) Contacts contact form : may be via treated for the time closely related to the execution of the transmitted request form .<br /><strong><br />    Defense in court<br /></strong><br />        The User's Personal Data may be used by the Owner in court or in the stages leading to possible legal action for defense against abuse in the use of this site or related services by the User.<br />        The User declares to be aware that the Data Controller may be required to disclose the Data upon request of the public authorities.<br /><strong><br />    Exercise of rights by Users<br /></strong><br />        ENTER Srl guarantees that it can exercise the rights provided by the art. 12 of the GDPR. In particular, you have the right:<br />        - to know if the Data Controller holds and / or processes personal data relating to your person and to access them in full even obtaining a copy of it (Article 15 Right to Access),<br /><br />        - the correction of inaccurate personal data or the integration of incomplete personal data (Art. 16 Right of rectification);<br /><br />        - the deletion of personal data held by the Data Controller if one of the reasons provided for in the GDPR (Right to Cancellation, 17) exists;<br /><br />        - to ask the Data Controller to limit the processing only to some personal data, if one of the reasons provided for in the Regulation exists (Art. 18 Right to limitation of processing);<br /><br />        - to request and receive all your personal data processed by the owner, in structured format, commonly used and readable by an automatic device, or request transmission to another owner without impediment (Art. 20, Right to Portability);<br /><br />        - to object in whole or in part to the processing of data for the purpose of sending advertising material and market research (so-called Consent) (Article 21 Opposition right)<br /><br />        - to oppose in whole or in part to the processing of data in automatic or semi-automatic mode for profiling purposes (cd Consensus)<br /><br />        The exercise of these rights can be exercised by notifying the Data Controller whose contact details are indicated in the relevant section of this statement.<br /><br />        Furthermore, you always have the right to lodge a complaint with the Data Protection Authority, which can be contacted at garante@gpdp.it or via the website http://www.gpdp.it .<br /><strong><br />    Changes to this privacy policy<br /></strong><br />        The Data Controller reserves the right to make changes to this privacy policy at any time by notifying Users on this page. In case of non-acceptance of the changes made to this privacy policy, the User is obliged to cease using them and may request the Data Controller to remove their Personal Data. Unless otherwise specified, the previous privacy policy will continue to apply to the Personal Data collected up to that point.<br /><strong><br />    Legal references<br /></strong><br />        Notice to European Users: this privacy statement is in application of articles 13 and 14 of "REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 April 2016 on the protection of individuals with regard to the processing of personal data, as well as the free movement of such data and repealing Directive 95 / 46 / EC (general regulation on data protection) "and the provision" Identification of simplified procedures for information and acquisition of consent for the use of cookies ", in the Official Journal n. 126 of 3 June 2014.<br />
+<br /><br /><br />    
+    </div>
+    
+ 
+					</div>
+					<!-- Right layout column -->
+					<div class="siteColumnRight">
+						<div class="column">
+                            
+                            
+                            <br /><br />
+                            <div id="ctl00_pnlOnlineStorage">
+	
+                            
+                                <br /><br /><br />
+                            
+</div>
+                       </div>
+					</div>
+					<!-- Content Ends - Footer template should start here -->
+				</div>
+			</div>
+
+        
+	
+   	
+    <footer class="iperius-footer">
+       <div class="container-fluid text-center">
+            <div class="row" style="
+                        padding-bottom: 15px;
+                        margin-bottom: 20px;
+                        padding-top: 15px;
+                        padding-left: 50px;
+                        background: #e5e5e5;
+                        padding-right: 50px;
+                ">
+                <h6 style="color:#000;">
+                        <label>Iperius Backup is the ideal solution to backup and protect your important data. Iperius Backup is the software that completes your work.<br /><br /><a href="/contact.aspx"><b style="color:#000">Contact us</b></a>&nbsp;to talk directly to one of our experts.</label>
+				</h6>
+            </div>
+       </div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-2 visible-lg">
+                    <ul class="list-inline">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6  class="text-uppercase"> <img width="150"  src="/img/logos/iperius_backup_logo_header.png"/></h6>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Contact Us</h6>
+                        </li>
+                        <li>ADDRESS:<br>
+1109, Nilamber Triumph, Nr. Bansal Mall, Nilamber Circle, Gotri - Vasna Road,
+Vadodara - 390 021 Gujarat India</li>
+<li></li>
+<li>
+PHONE:<br>
++91 265 296 0035, 299 0035,<br>
++91 99099 85114, (M) +91 98254 12230
+</li>
+<li></li>
+
+<li>E-MAIL:<br>
+sales@niftysolutions.co.in</li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Main navigation</h6>
+                        </li>
+                        <li><a href="/index.aspx">Home Page</a></li>
+						<li><a href="/download-software-backup.aspx">Free Download</a></li>
+						<li><a href="/backup-software-windows.aspx">Buy license</a></li>
+						<li><a href="/backup-software-windows.aspx">Features</a></li>
+						<li><a href="/contact.aspx">Contact us</a></li>
+                        
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                        
+                        <li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                           <h6 class="text-uppercase">Other information</h6>
+                        </li>
+                        <li><a href="/contact.aspx">Become a Reseller</a></li>
+						<li><a href="/backup-windows-server.aspx">Complete solution</a></li>
+                        <li><a href="/eula.aspx">EULA</a></li>
+						
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul  class="list-inline text-left">
+                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6 class="text-uppercase">Info & Support</h6>
+                        </li>
+                         <li><a href="/faq.aspx">FAQ</a></li>
+                         <li><a href="/backup-tutorials/index-tutorials.aspx">Tutorials</a></li>
+						 <li><a target="_blank" href="http://www.iperiusbackup.net/en/how-to-uninstall-iperius-backup/">Uninstallation</a></li>
+						
+                         
+                    </ul>
+                </div>
+               
+            </div>
+            
+           
+        </div>
+    </footer>
+    
+
+
+		</div>
+		<!-- Site Wrapper Ends -->
+        </form>
+        
+
+        
+ 
+        <script type='text/javascript' src='/js/contact.js'></script>
+
+        <script type='text/javascript' src='/js/propeller.min.js'></script>
+
+        <script type="text/javascript">
+	        // Navbar background color add after scroll down
+	        $(window).on("scroll load",function() {    
+			        var scroll = $(window).scrollTop();
+			        if (scroll >= 100) {
+				        $(".navbar-transparent").addClass("navaddcolor");
+			        } else {
+				        $(".navbar-transparent").removeClass("navaddcolor");
+			        }
+	        });
+	        // Navbar active class add on particular section
+	            $(document).ready(function(){
+			        var headings = $('.get-class');
+			        var nav = $('.nav');
+			        $(document).scroll(function(){
+				        var docScrollTop = $(document).scrollTop();
+				        var windowHeight = $(window).height();
+				        var foundHeading;
+				        var window40  = windowHeight * 0.45;
+				        headings.each(function(index, heading){
+					        heading = $(heading);
+					        if (heading.offset().top -  window40 <= docScrollTop && (!foundHeading || foundHeading.offset().top < heading.offset().top)){
+						        $(this).addClass("active")
+						        foundHeading = heading;
+					        }
+				        });
+				        nav.find('.active').removeClass('active');
+				        if (foundHeading){
+						        nav.find('[href="#' + foundHeading.attr('id') + '"]').parent('li').addClass('active'); 
+				        }
+			        });
+		        });
+		  
+	        // sidebar close on click of particular section
+         //   $('.pmd-navbar-sidebar .navbar-nav li > a').on( 'click', function() {
+		       // $('.pmd-navbar-sidebar').removeClass('pmd-sidebar-open');
+		       // $('.pmd-sidebar-overlay').removeClass('pmd-sidebar-overlay-active');
+		       // $('body').removeClass('pmd-body-open');
+	        //});
+	
+	        $(document).ready(function() {
+			
+		        $(function(){
+			        jQuery('img.svg').each(function(){
+				        var $img = jQuery(this);
+				        var imgID = $img.attr('id');
+				        var imgClass = $img.attr('class');
+				        var imgURL = $img.attr('src');
+
+				        jQuery.get(imgURL, function(data) {
+					        // Get the SVG tag, ignore the rest
+					        var $svg = jQuery(data).find('svg');
+
+					        // Add replaced image's ID to the new SVG
+					        if(typeof imgID !== 'undefined') {
+						        $svg = $svg.attr('id', imgID);
+					        }
+					        // Add replaced image's classes to the new SVG
+					        if(typeof imgClass !== 'undefined') {
+						        $svg = $svg.attr('class', imgClass+' replaced-svg');
+					        }
+					        // Remove any invalid XML tags as per http://validator.w3.org
+					        $svg = $svg.removeAttr('xmlns:a');
+					        // Check if the viewport is set, else we gonna set it if we can.
+					        if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
+						        $svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
+					        }
+					        // Replace image with new SVG
+					        $img.replaceWith($svg);
+
+				        }, 'xml');
+
+			        });
+		        });
+
+		
+			
+			
+	        })
+
+            $(".nav.navbar-nav").append("<span class='nav-active'></span>")
+
+            $(document).ready(function () {
+
+                $('#containerslide').click(function (e) {
+                    
+                    var hash = e.target.hash;
+                    console.log(e.target.hash);
+                    if (hash == "") {
+                        $('#containerslide').css("left", "0px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#vmware") {
+                        $('#containerslide').css("left", "-260px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#sql") {
+                        $('#containerslide').css("left", "-520px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#exchange") {
+                        $('#containerslide').css("left", "-790px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#tape") {
+                        $('#containerslide').css("left", "-1050px");
+                        e.preventDefault();
+                    }
+                });
+
+              
+                if (window.location.search.substr(1).split("=")[1] == "nodistraction") {
+                   
+                    $("#menu-top-menu").addClass("nodistraction");
+                    $(".header-title-bar").addClass("nodistraction");
+                    $("#ctl00_cph1_pnlButtons").addClass("hidden");
+                }
+
+                    //javascript for tabing component 
+                    $('.pmd-tabs').pmdTab();
+
+                   
+
+		            $(document).on("scroll load resize", onScroll);
+			        $('.nav a[href^="#"]').on('click', function(e) {
+				        e.preventDefault();
+				        if ($(window).width() < 768){
+					        $(".pmd-sidebar-overlay").trigger("click");
+				        }
+				        $(document).off("scroll");
+				        var target = this.hash,
+				        menu = target;
+                        $target = $(target);
+                        if ($target.hasClass("tab-pane")) return;
+				        var headerHeight = $(".navbar").height();
+				        $('html, body').stop().animate({
+					        'scrollTop': $target.offset().top - headerHeight
+				        }, 500, function() {
+					        $(document).on("scroll", onScroll);
+			        });			
+		        });
+		        $('.nav-active').hide();
+	        });	
+
+	        // Navbar active add remove
+	        function onScroll(event) {
+		        var scrollPos = $(document).scrollTop() + 205;
+		        $('.nav > li > a').each(function() {
+			        var currLink = $(this);
+			        var refElement = $('#' + currLink.attr("rel"));	
+			        if (refElement.position() != undefined) {
+				        if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+					        $('.nav li a').removeClass("active");
+					        currLink.addClass("active");
+					        $('.nav-active').show();
+					        var spanTop = $('.active').offset().left - $('.nav').offset().left;
+					        var navWidth = $(this).outerWidth();
+					        $('.nav .nav-active').css({"left":spanTop,"width":navWidth});
+				            } else {
+					        currLink.removeClass("active");
+				        }
+			        }
+		        });
+	        }
+	
+         
+
+
+        </script>
+
+
+        <div id="ctl00_pnlBottomScripts">
+	
+
+        <script src="/js/lightbox.min.js" type="text/javascript"></script>
+
+        <!-- script for vue.js library -->
+        <script src="/js/vue.min.js"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="/js/app.js"></script>
+
+        
+</div>
+
+  
+        
+
+
+	</body>
+  
+</html>

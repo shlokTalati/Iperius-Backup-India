@@ -1,0 +1,589 @@
+
+<!doctype html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html id="ctl00_html_tag" xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Iperius Backup - Contact
+</title><link rel="shortcut icon" href="/favicon.ico" /><link rel="icon" href="/favicon.ico" type="image/x-icon" />
+   
+    <!-- Google icon -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" /><link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+
+    <!-- common css -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller-theme.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/landing-page.css" type="text/css" media="all" />
+
+    <!--css for custom carousel component -->
+    <link rel="stylesheet" href="/css/owl.carousel.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/theme-detail.css" type="text/css" media="all" />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="/css/iperius.css" type="text/css" media="all" />
+
+    <!-- css for custom animate component -->
+    <link rel="stylesheet" href="/css/animate.css" type="text/css" media="all" /><link rel="stylesheet" type="text/css" media="all" href="/css/lightbox.css" />
+
+    <!-- script for jquery library -->
+    <script type='text/javascript' src='/js/jquery-1.12.2.min.js'></script>
+
+    <script type='text/javascript' src='/js/bootstrap.min.js'></script>
+
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-P6XNDRD');</script>
+<!-- End Google Tag Manager --><meta name="robots" content="noindex,follow" /></head>
+	<body>
+    
+    <form name="aspnetForm" method="post" action="./contact.aspx?r=1" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1OTk1NzA5MQ8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAgIBD2QWCgIBD2QWAgIVDxYCHgRUZXh0BagDPCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+DQo8c2NyaXB0PihmdW5jdGlvbih3LGQscyxsLGkpe3dbbF09d1tsXXx8W107d1tsXS5wdXNoKHsnZ3RtLnN0YXJ0JzoNCm5ldyBEYXRlKCkuZ2V0VGltZSgpLGV2ZW50OidndG0uanMnfSk7dmFyIGY9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZShzKVswXSwNCmo9ZC5jcmVhdGVFbGVtZW50KHMpLGRsPWwhPSdkYXRhTGF5ZXInPycmbD0nK2w6Jyc7ai5hc3luYz10cnVlO2ouc3JjPQ0KJ2h0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0bS5qcz9pZD0nK2krZGw7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLGYpOw0KfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdkYXRhTGF5ZXInLCdHVE0tUDZYTkRSRCcpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPmQCBQ9kFhACAQ9kFjYCAQ8WAh8BZGQCAw8WAh8BZGQCBQ8WAh8BBRdJcGVyaXVzIEJhY2t1cCBGcmVld2FyZWQCBw8WBB8BBQ1GcmVlIERvd25sb2FkHgdWaXNpYmxlaGQCCQ8WAh8BBQlTb2x1dGlvbnNkAgsPFgIfAQUnRHJpdmUgSW1hZ2UgQmFja3VwIC8gRGlzayBjbG9uaW5nIC8gUDJWZAINDxYCHwEFGUJhY2t1cCB0byBDbG91ZCwgUzMgZSBGVFBkAg8PFgIfAQUTU1FMIERhdGFiYXNlIEJhY2t1cGQCEQ8WAh8BBSBCYWNrdXAgVk13YXJlIEVTWGkvRnJlZSwgdkNlbnRlcmQCEw8WAh8BBQ5CYWNrdXAgSHlwZXItVmQCFQ8WAh8BBSxCYWNrdXAgRXhjaGFuZ2UgU2VydmVyIC8gT25saW5lIChPZmZpY2UgMzY1KWQCFw8WAh8BBRRCYWNrdXAgdG8gVGFwZSAoTFRPKWQCGQ8WAh8BBS1DZW50cmFsaXplZCBNYW5hZ2VtZW50IC0gSVQvQmFja3VwIE1vbml0b3JpbmdkAhsPFgIfAQUNQ2xvdWQgU3RvcmFnZWQCHQ8WAh8BBR9SZW1vdGUgRGVza3RvcCAtIFJlbW90ZSBTdXBwb3J0ZAIfDxYCHwEFCFByb2R1Y3RzZAIhDxYCHwEFDEFsbCB2ZXJzaW9uc2QCIw8WAh8BBRFCZWNvbWUgYSBSRVNFTExFUmQCJQ8WAh8BBQNCdXlkAicPFgIfAQUSQnV5IElwZXJpdXMgQmFja3VwZAIpDxYCHwEFE0J1eSBJcGVyaXVzIENvbnNvbGVkAisPFgIfAQUSQnV5IElwZXJpdXMgUmVtb3RlZAItDxYCHwEFE0J1eSBJcGVyaXVzIFN0b3JhZ2VkAi8PFgIfAQURQmVjb21lIGEgUkVTRUxMRVJkAjEPFgIfAQUKQ29udGFjdCB1c2QCMw9kFgICAQ8WAh8BBQlZb3VyIGNhcnRkAjUPFgIfAWVkAgMPFgIfAQUKQ29udGFjdCB1c2QCBQ8WAh8BBb4BPGEgY2xhc3M9InRleHQtdXBwZXJjYXNlIiBzdHlsZT0iY29sb3I6IzQ0NDQ0NDsiIGhyZWY9Ii9sb2dpbi5hc3B4Ij5Mb2dpbjwvYT4gJm5ic3A7ICZuYnNwOzxhIGNsYXNzPSJ0ZXh0LXVwcGVyY2FzZSIgc3R5bGU9ImNvbG9yOiM0NDQ0NDQ7IiBocmVmPSIvdXNlci1yZWdpc3RyYXRpb24uYXNweCI+U2lnbiB1cDwvYT4gJm5ic3A7IGQCBw8WAh8BBRo8c3Ryb25nPlR1dG9yaWFsczwvc3Ryb25nPmQCCQ8QZGQWAQICZAILD2QWHgIBDxYCHwFkZAIDD2QWCAIBDxYCHwEFO0JlZm9yZSB5b3Ugc3VibWl0IGEgc3VwcG9ydCByZXF1ZXN0IG9yIGEgdGVjaG5pY2FsIHF1ZXN0aW9uZAIDDxYCHwEFElJlYWQgdGhlIFRVVE9SSUFMU2QCBQ8WAh8BBV9EbyB5b3UgaGF2ZSBhbiAiPHN0cm9uZz5JbnZhbGlkIEFjdGl2YXRpb24gQ29kZTwvc3Ryb25nPiIgcHJvYmxlbSBvciBuZWVkIHRvIG1vdmUgeW91ciBsaWNlbnNlP2QCBw8WAh4JaW5uZXJodG1sBQpDbGljayBoZXJlZAIFDxYCHwEFMEZpZWxkcyBtYXJrZWQgYnkgcmVkIGhhc24ndCBiZWVuIHR5cGVkIGNvcnJlY3RseWQCBw8WAh8BBQ9Db250YWN0IHJlYXNvbjpkAgkPEGQPFghmAgECAgIDAgQCBQIGAgcWCAUKU2VsZWN0IC4uLgUnUHJlLXNhbGVzIHF1ZXN0aW9ucyAvIEdlbmVyYWwgcXVlc3Rpb25zBShMaWNlbnNlcyAtIEFjdGl2YXRpb24gLyBDaGFuZ2UgLyBVcGdyYWRlBR9SZXNlbGxlciAvIFBhcnRuZXJzaGlwIHByb2dyYW1zBSFBZHZlcnRpc2luZyAvIFJldmlld3MgLyBNYXJrZXRpbmcFJ1RlY2huaWNhbCBzdXBwb3J0IC8gVGVjaG5pY2FsIHF1ZXN0aW9ucwU4Q29kZSBjaGFuZ2UgLyBNb3ZpbmcgYSBMaWNlbnNlIC8gSW52YWxpZCBBY3RpdmF0aW9uIENvZGUFD1JlcXVlc3QgaW52b2ljZRYBAgNkAgsPZBYMAgEPFgIfAQUgVG8gb2J0YWluIGEgbmV3IGFjdGl2YXRpb24gY29kZTpkAgMPFgIfAQUSWW91IGhhdmUgdG8gbG9nIGluZAIFDxYCHwEFH0dvIHRvIHRoZSBsaXN0IG9mIHlvdXIgbGljZW5zZXNkAgcPFgIfAQUzQ2xpY2sgb24gIkdlbmVyYXRlIG5ldyBjb2RlIiBvbiB0aGUgZGVzaXJlZCBsaWNlbnNlZAIJDxYCHwEFLEVudGVyIHRoZSBuZXcgQ29tcHV0ZXIgQ29kZSBzaG93biBieSBJcGVyaXVzZAILDxYCHwMFFE1ha2UgdGhlIGNvZGUgY2hhbmdlZAINDxYCHwEFFU5hbWUgb3IgQ29tcGFueSBOYW1lOmQCEQ8WAh8BBQdFLW1haWw6ZAIVDxYCHwEFCFN1YmplY3Q6ZAIZDxYCHwEFCE1lc3NhZ2U6ZAIbDxYCHwFkZAIfDxAPFgIfAQUrU2VuZCBtZSBuZXdzIG9uIHNvZnR3YXJlIHVwZGF0ZXMgYW5kIG9mZmVyc2RkZGQCIQ8QDxYCHwEFK0kgcmVhZCB0aGUgcHJpdmFjeSBwb2xpY3kgYW5kIGFncmVlIHdpdGggaXRkZGRkAiMPFgIfAQUTUmVhZCBQcml2YWN5IFBvbGljeWQCJQ8WAh8DBQRTZW5kZAIRD2QWOAIBDxYCHwEFiAFJcGVyaXVzIEJhY2t1cCBpcyB0aGUgaWRlYWwgc29sdXRpb24gdG8gYmFja3VwIGFuZCBwcm90ZWN0IHlvdXIgaW1wb3J0YW50IGRhdGEuIElwZXJpdXMgQmFja3VwIGlzIHRoZSBzb2Z0d2FyZSB0aGF0IGNvbXBsZXRlcyB5b3VyIHdvcmsuZAIDDxYCHwEFCkNvbnRhY3QgdXNkAgUPFgIfAQUndG8gdGFsayBkaXJlY3RseSB0byBvbmUgb2Ygb3VyIGV4cGVydHMuZAIHDxYCHwEFBVNhbGVzZAIJDxYCHwEFGEl0YWx5OiAoKzM5KSAwNzM1IDU4MjMzN2QCCw8WAh8BBRpDaGluYTogKCs4NikgMTM3IDUyNTUgOTA4N2QCDQ8WAh8BBQ9NYWluIG5hdmlnYXRpb25kAg8PFgIfAQUJSG9tZSBQYWdlZAIRDxYCHwEFDUZyZWUgRG93bmxvYWRkAhMPFgIfAQULQnV5IGxpY2Vuc2VkAhUPFgIfAQUIRmVhdHVyZXNkAhcPFgIfAQUKQ29udGFjdCB1c2QCGQ8WAh8BBY4BPGxpPjxhIGNsYXNzPSJpY29uU21hbGxDbGllbnQiIGhyZWY9Ii9sb2dpbi5hc3B4Ij5Mb2dpbjwvYT48L2xpPjxsaT48YSBjbGFzcz0iaWNvblNtYWxsU2lnbnVwIiBocmVmPSIvdXNlci1yZWdpc3RyYXRpb24uYXNweCI+U2lnbiB1cDwvYT48L2xpPmQCGw8WAh8BBRFPdGhlciBpbmZvcm1hdGlvbmQCHQ8WAh8BBRFCZWNvbWUgYSBSZXNlbGxlcmQCHw8WAh8BBRFDb21wbGV0ZSBzb2x1dGlvbmQCIQ8WAh8BBRBOZXdzIC8gQ2hhbmdlTG9nZAIjDxYCHwEFNzxhIGhyZWY9Ii9wcml2YWN5LWdkcHIuYXNweD9sYW5nPWVuIj5Qcml2YWN5IC8gR0RQUjwvYT5kAiUPFgIfAQUOSW5mbyAmIFN1cHBvcnRkAicPFgIfAQUDRkFRZAIpDxYCHwEFCVR1dG9yaWFsc2QCKw8WAh8BBQ5Vbmluc3RhbGxhdGlvbmQCLQ8WAh8BBWA8YSBjbGFzcz0iaWNvblNtYWxsRW1haWwiIGhyZWY9ImphdmFzY3JpcHQ6OyIgb25jbGljaz0ic2VuZG1haWxzdXBwb3J0anMoJycpOyI+RW1haWwgU3VwcG9ydDwvYT5kAi8PFgIfAWVkAjEPFgIfAWRkAjMPFgIfAQUEMjAyMmQCNQ8WAh8BBQZWQVQgSURkAjcPFgIfAQUTQWxsIHJpZ2h0cyByZXNlcnZlZGQCEw9kFgJmDxYCHwEF+QM8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQoNCiAgICB2YXIgX2dhcSA9IF9nYXEgfHwgW107DQogICAgX2dhcS5wdXNoKFsnX3NldEFjY291bnQnLCAnVUEtMjYyNjQ0NzQtMyddKTsNCiAgICBfZ2FxLnB1c2goWydfdHJhY2tQYWdldmlldyddKTsNCg0KICAgIChmdW5jdGlvbiAoKSB7DQogICAgICAgIHZhciBnYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOyBnYS50eXBlID0gJ3RleHQvamF2YXNjcmlwdCc7IGdhLmFzeW5jID0gdHJ1ZTsNCiAgICAgICAgZ2Euc3JjID0gKCdodHRwczonID09IGRvY3VtZW50LmxvY2F0aW9uLnByb3RvY29sID8gJ2h0dHBzOi8vJyA6ICdodHRwOi8vJykgKyAnc3RhdHMuZy5kb3VibGVjbGljay5uZXQvZGMuanMnOw0KICAgICAgICB2YXIgcyA9IGRvY3VtZW50LmdldEVsZW1lbnRzQnlUYWdOYW1lKCdzY3JpcHQnKVswXTsgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShnYSwgcyk7DQogICAgfSkoKTsNCg0KPC9zY3JpcHQ+ZAIHDxYCHwFlZAINDxYCHwEFvgg8IS0tIFN0YXJ0IG9mIExpdmVDaGF0ICh3d3cubGl2ZWNoYXRpbmMuY29tKSBjb2RlIChkeW5hbWljKSAtLT4NCjxzY3JpcHQ+DQogICAgd2luZG93Ll9fbGMgPSB3aW5kb3cuX19sYyB8fCB7fTsNCiAgICB3aW5kb3cuX19sYy5saWNlbnNlID0gODYwNzUwOTsNCiAgICA7KGZ1bmN0aW9uKG4sdCxjKXtmdW5jdGlvbiBpKG4pe3JldHVybiBlLl9oP2UuX2guYXBwbHkobnVsbCxuKTplLl9xLnB1c2gobil9dmFyIGU9e19xOltdLF9oOm51bGwsX3Y6IjIuMCIsb246ZnVuY3Rpb24oKXtpKFsib24iLGMuY2FsbChhcmd1bWVudHMpXSl9LG9uY2U6ZnVuY3Rpb24oKXtpKFsib25jZSIsYy5jYWxsKGFyZ3VtZW50cyldKX0sb2ZmOmZ1bmN0aW9uKCl7aShbIm9mZiIsYy5jYWxsKGFyZ3VtZW50cyldKX0sZ2V0OmZ1bmN0aW9uKCl7aWYoIWUuX2gpdGhyb3cgbmV3IEVycm9yKCJbTGl2ZUNoYXRXaWRnZXRdIFlvdSBjYW4ndCB1c2UgZ2V0dGVycyBiZWZvcmUgbG9hZC4iKTtyZXR1cm4gaShbImdldCIsYy5jYWxsKGFyZ3VtZW50cyldKX0sY2FsbDpmdW5jdGlvbigpe2koWyJjYWxsIixjLmNhbGwoYXJndW1lbnRzKV0pfSxpbml0OmZ1bmN0aW9uKCl7dmFyIG49dC5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTtuLmFzeW5jPSEwLG4udHlwZT0idGV4dC9qYXZhc2NyaXB0IixuLnNyYz0iaHR0cHM6Ly9jZG4ubGl2ZWNoYXRpbmMuY29tL3RyYWNraW5nLmpzIix0LmhlYWQuYXBwZW5kQ2hpbGQobil9fTshbi5fX2xjLmFzeW5jSW5pdCYmZS5pbml0KCksbi5MaXZlQ2hhdFdpZGdldD1uLkxpdmVDaGF0V2lkZ2V0fHxlfSh3aW5kb3csZG9jdW1lbnQsW10uc2xpY2UpKQ0KPC9zY3JpcHQ+DQo8bm9zY3JpcHQ+PGEgaHJlZj0iaHR0cHM6Ly93d3cubGl2ZWNoYXRpbmMuY29tL2NoYXQtd2l0aC84NjA3NTA5LyIgcmVsPSJub2ZvbGxvdyI+Q2hhdCB3aXRoIHVzPC9hPiwgcG93ZXJlZCBieSA8YSBocmVmPSJodHRwczovL3d3dy5saXZlY2hhdGluYy5jb20vP3dlbGNvbWUiIHJlbD0ibm9vcGVuZXIgbm9mb2xsb3ciIHRhcmdldD0iX2JsYW5rIj5MaXZlQ2hhdDwvYT48L25vc2NyaXB0Pg0KPCEtLSBFbmQgb2YgTGl2ZUNoYXQgY29kZSAtLT5kAg8PFgIfAQX1ATwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIChub3NjcmlwdCkgLS0+DQo8bm9zY3JpcHQ+PGlmcmFtZSBzcmM9Imh0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL25zLmh0bWw/aWQ9R1RNLVA2WE5EUkQiDQpoZWlnaHQ9IjAiIHdpZHRoPSIwIiBzdHlsZT0iZGlzcGxheTpub25lO3Zpc2liaWxpdHk6aGlkZGVuIj48L2lmcmFtZT48L25vc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIChub3NjcmlwdCkgLS0+ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUYY3RsMDAkY3BoMSRja2JOZXdzbGV0dGVyBR5jdGwwMCRjcGgxJGNrYmNvbnNlbnNvX3ByaXZhY3nrGlhBpEqkkOeQ2vOCZT1Bh2Ew3eyukcm7yASpI2mP+w==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CD2448B2" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABxOsOFTRKhIUjWRX3698tg+X7Xvzb09p206mAKQZG+aDJPRk2hFk/5agF2+zHdQ3W5U/HBf1RoocDPthgLqXNyrTIwYQXQ20EFgaHyGmWMWfas0HRGwuXjfgETeM6D4LZquWm7ON6K45djYmt44BnQHn83eB8e9VUvbppsii+z+3mxBy7f4n7Dbnq3Obxu64ar37Z3w61jMIuKFEgTXzWy1GeAdHJefdjqKkWMUYuHrRWUmEbhrldhHyxc7q13HwZQ8/5UpzR3BrqJdypK/31Y0HbL6a5qv/C2Wa+wIvMNzVy37MFAxHZmlguwf2qpd5o1N6cCfKjITUsYQVfRwz+AL5j9GBvxEN3op7iyT3ldrnJ7JaatxEL0NvJgPHJ3R2kqGSn/C7Tm0mfsZIoqdBsdxKkDPyt6DRrnTo1Yle2n0Z/HQGX7Ho5z9r/1/Gg01uettvVht75BCH4dWtaNuAxr8Op7AUW4HkT/nCFnl6qJTYb+0jA3GAgyu8K9OXmXPi+lQRAnZEMOMfBVCjNSaDmJmtBCbrh3qUAXai2N9vHf+eq405UfU2rRpB45l810gD+RWk0yFoEZ0iVwWdCRDf8ueoQ1P154vVu74Z/Qk5zuNVAz9xPl1Pp3EPxq9iuhEHrc=" />
+   
+		<!-- Site Wrapper Start -->
+		<div class="siteWrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+			<!-- Site Header -->
+            
+
+<!--navbar start -->
+	<nav class="navbar navbar-inverse pmd-navbar navbar-fixed-top">
+
+         <div class="container">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <button class="pmd-ripple-effect navbar-toggle pmd-navbar-toggle" type="button">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <!--logo-->
+                  <a href="/index.aspx" class="navbar-brand">
+                        <img src="/img/logos/iperius_backup_logo_header.png" width="173" />
+                   </a>
+              
+              
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div id="bs-example-navbar-collapse-2" class="collapse navbar-collapse pmd-navbar-sidebar">
+                   
+                    <a href="/backup-tutorials/index-tutorials.aspx"></a> &nbsp; &nbsp;
+                  
+            		<!--nav -->
+            		<ul id="menu-top-menu" class="nav navbar-nav navbar-right">
+                        <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/download-software-backup.aspx" title="Iperius Backup Freeware" ></a></li>
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Solutions <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            
+                            <li><a href="/drive-image-backup.aspx">Drive Image Backup / Disk cloning / P2V</a></li>
+                            <li><a href="/ftp-backup-cloud-storage-online.aspx">Backup to Cloud, S3 e FTP</a></li>
+                            <li><a href="/backup-database.aspx">SQL Database Backup</a></li>
+                            <li><a href="/software-backup-esxi-hyper-v.aspx">Backup VMware ESXi/Free, vCenter</a></li>
+                              <li><a href="/software-backup-esxi-hyper-v.aspx">Backup Hyper-V</a></li>
+                            <li><a href="/backup-exchange-software-export-mailboxes-pst.aspx">Backup Exchange Server / Online (Office 365)</a></li>
+                            <li><a href="/tape-backup-software.aspx">Backup to Tape (LTO)</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Centralized Management - IT/Backup Monitoring</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Cloud Storage (FTPS / S3)</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx">Remote Desktop - Remote Support</a></li>
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                              <li><a href="/software-backup-free.aspx">Iperius Backup <strong>Free</strong></a></li> 
+                              <li><a href="/iperius-backup-desktop.aspx">Iperius Backup Desktop</a></li> 
+                              <li><a href="/backup-software-windows.aspx">Iperius Backup (All versions)</a></li> 
+                              <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Iperius Console</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Iperius Cloud Storage</a></li>
+                            <li><a style="color:#ff6d3f; font-weight:bold;" href="/iperius-remote-desktop.aspx">Iperius Remote 4 (NEW!)</a> </li>
+
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/software-resellers.aspx">Become a RESELLER</a></li> 
+                              
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buy <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="/backup-software-windows.aspx">Buy Iperius Backup</a></li>
+                            <li><a href="/web-console-backup.aspx#buy">Buy Iperius Console</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx#buy">Buy Iperius Remote</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Buy Iperius Storage</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/software-resellers.aspx">Become a RESELLER</a></li>
+                          </ul>
+                        </li>
+                        <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/contact.aspx">Contact us</a></li>
+                        <li id="ctl00_HeaderUserControl_pnlCart" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/cart.aspx" style="color:#ffd800; font-size:12pt;"><i class="fa fa-shopping-cart"></i> Your cart</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"></li>
+ 
+                    </ul>            		
+                  	<!--nav -->
+              
+              </div>
+              <!-- /.navbar-collapse -->
+         </div><!-- /.container-fluid -->
+
+         <div class="pmd-sidebar-overlay"></div>
+
+    </nav>
+	<!--navbar end -->
+    
+            
+		    <div class="header-title-bar container" style="height:auto;">
+                        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 breadcrumb" >                             
+                            <span style="font-size:10pt;">Contact us</span>                             
+                    </div>
+                       
+       
+                    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-left" >
+            
+                        <div class="form-group">
+                        <select name="ctl00$cbxLang" id="ctl00_cbxLang" class="form-control">
+	
+	<option selected="selected" value="en">English</option>
+	
+
+</select>
+                    </div>
+                </div> 
+            </div> 
+
+            <!--banner-->         
+	           
+			<!-- Content Header -->
+            <!--header-title-bar -->
+         
+           
+			<!-- Content Wrapper -->
+			<div class="contentWrapper">
+                 
+				<div class="center clearfix">
+					<!-- Additional clearfix necessary for non floated objects -->
+					<div class="clearfix">
+					</div>
+					<!-- Content Starts - Header template should end here -->
+					<!--Left layout column -->
+					<div class="container" id="app" > 
+
+
+
+                    
+    
+<div id="ctl00_cph1_pnlButtons">
+	
+<p style="text-align:center; line-height:40px;">
+    Before you submit a support request or a technical question<br />
+    <a class="btn pmd-ripple-effect btn-secondary"  target="_blank" href="http://www.iperiusbackup.net">Read the TUTORIALS</a>
+</p>
+  <p style="text-align:center; line-height:40px;">
+    Do you have an "<strong>Invalid Activation Code</strong>" problem or need to move your license?<br />
+    <button onclick="__doPostBack('ctl00$cph1$btnCodeChangeSelect','')" id="ctl00_cph1_btnCodeChangeSelect" type="button" class="btn pmd-ripple-effect btn-primary">Click here</button>
+</p>
+<br />
+
+</div>
+    <div class="col-lg-8 col-md-8 col-md-offset-2 col-lg-offset-2">
+        
+	    <div class="pmd-card pmd-z-depth pmd-card-custom-form">
+		    <div class="pmd-card-body"> 
+                <!-- Bootstrap Selectbox -->
+                <div class="form-group">
+                    <label for="regular1" class="control-label">Contact reason:</label>&nbsp;<select name="ctl00$cph1$cbxMotivo" id="ctl00_cph1_cbxMotivo" class="form-control">
+	<option value="0">Select ...</option>
+	<option value="2">Pre-sales questions / General questions</option>
+	<option value="4">Licenses - Activation / Change / Upgrade</option>
+	<option selected="selected" value="3">Reseller / Partnership programs</option>
+	<option value="5">Advertising / Reviews / Marketing</option>
+	<option value="1">Technical support / Technical questions</option>
+	<option value="6">Code change / Moving a License / Invalid Activation Code</option>
+	<option value="7">Request invoice</option>
+
+</select>
+			    </div>
+                
+			    <!-- Regular Input -->
+			    <div class="form-group">
+				    <label for="regular1" class="control-label">Name or Company Name:</label>
+&nbsp;<input name="ctl00$cph1$txtNome" type="text" maxlength="255" id="ctl00_cph1_txtNome" class="form-control" />
+				</div>
+                <div class="form-group">
+				    <label for="regular1" class="control-label">E-mail:</label>&nbsp;<input name="ctl00$cph1$txtEmail" type="text" maxlength="255" id="ctl00_cph1_txtEmail" class="form-control" />
+				</div>
+                 <div class="form-group">
+				    <label for="regular1" class="control-label">Subject:</label>
+				   <input name="ctl00$cph1$txtOggetto" type="text" value="Reseller / Partnership programs" maxlength="255" id="ctl00_cph1_txtOggetto" class="form-control" />
+				</div>
+			    <!-- Textarea -->
+			    <div class="form-group">
+				    <label class="control-label">Message:&nbsp;</label>
+				   <textarea name="ctl00$cph1$txtMessaggio" rows="2" cols="20" id="ctl00_cph1_txtMessaggio" class="form-control">
+</textarea>
+			    </div>
+
+                        <input id="ctl00_cph1_ckbNewsletter" type="checkbox" name="ctl00$cph1$ckbNewsletter" checked="checked" /><label for="ctl00_cph1_ckbNewsletter">Send me news on software updates and offers</label>
+    <br />
+              
+                        <input id="ctl00_cph1_ckbconsenso_privacy" type="checkbox" name="ctl00$cph1$ckbconsenso_privacy" /><label for="ctl00_cph1_ckbconsenso_privacy">I read the privacy policy and agree with it</label>
+                         ( <a target="_blank" href="/privacy-gdpr.aspx">Read Privacy Policy</a> ) 
+
+
+                 <br /><br />
+				     <button onclick="__doPostBack('ctl00$cph1$btnInvia','')" id="ctl00_cph1_btnInvia" type="button" class="btn btn-primary">Send</button>
+               
+	    </div>
+	    
+    </div>
+
+</div>
+
+
+   
+
+ 
+					</div>
+					<!-- Right layout column -->
+					<div class="siteColumnRight">
+						<div class="column">
+                            
+                            
+                            <br /><br />
+                            <div id="ctl00_pnlOnlineStorage">
+	
+                            
+                                <br /><br /><br />
+                            
+</div>
+                       </div>
+					</div>
+					<!-- Content Ends - Footer template should start here -->
+				</div>
+			</div>
+
+        
+	
+   <footer class="iperius-footer">
+       <div class="container-fluid text-center">
+            <div class="row" style="
+                        padding-bottom: 15px;
+                        margin-bottom: 20px;
+                        padding-top: 15px;
+                        padding-left: 50px;
+                        background: #e5e5e5;
+                        padding-right: 50px;
+                ">
+                <h6 style="color:#000;">
+                        <label>Iperius Backup is the ideal solution to backup and protect your important data. Iperius Backup is the software that completes your work.<br /><br /><a href="/contact.aspx"><b style="color:#000">Contact us</b></a>&nbsp;to talk directly to one of our experts.</label>
+				</h6>
+            </div>
+       </div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-2 visible-lg">
+                    <ul class="list-inline">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6  class="text-uppercase"> <img width="150"  src="/img/logos/iperius_backup_logo_header.png"/></h6>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Contact Us</h6>
+                        </li>
+                        <li>ADDRESS:<br>
+1109, Nilamber Triumph, Nr. Bansal Mall, Nilamber Circle, Gotri - Vasna Road,
+Vadodara - 390 021 Gujarat India</li>
+<li></li>
+<li>
+PHONE:<br>
++91 265 296 0035, 299 0035,<br>
++91 99099 85114, (M) +91 98254 12230
+</li>
+<li></li>
+
+<li>E-MAIL:<br>
+sales@niftysolutions.co.in</li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Main navigation</h6>
+                        </li>
+                        <li><a href="/index.aspx">Home Page</a></li>
+						<li><a href="/download-software-backup.aspx">Free Download</a></li>
+						<li><a href="/backup-software-windows.aspx">Buy license</a></li>
+						<li><a href="/backup-software-windows.aspx">Features</a></li>
+						<li><a href="/contact.aspx">Contact us</a></li>
+                        
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                        
+                        <li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                           <h6 class="text-uppercase">Other information</h6>
+                        </li>
+                        <li><a href="/software-resellers.aspx">Become a Reseller</a></li>
+						<li><a href="/backup-windows-server.aspx">Complete solution</a></li>
+                        <li><a href="/eula.aspx">EULA</a></li>
+						
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul  class="list-inline text-left">
+                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6 class="text-uppercase">Info & Support</h6>
+                        </li>
+                         <li><a href="/faq.aspx">FAQ</a></li>
+                         <li><a href="/backup-tutorials/index-tutorials.aspx">Tutorials</a></li>
+						 <li><a target="_blank" href="http://www.iperiusbackup.net/en/how-to-uninstall-iperius-backup/">Uninstallation</a></li>
+						
+                         
+                    </ul>
+                </div>
+               
+            </div>
+            
+           
+        </div>
+    </footer>
+        <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26264474-3']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+
+
+
+		</div>
+		<!-- Site Wrapper Ends -->
+        </form>
+        
+
+        
+ 
+        <script type='text/javascript' src='/js/contact.js'></script>
+
+        <script type='text/javascript' src='/js/propeller.min.js'></script>
+
+        <script type="text/javascript">
+	        // Navbar background color add after scroll down
+	        $(window).on("scroll load",function() {    
+			        var scroll = $(window).scrollTop();
+			        if (scroll >= 100) {
+				        $(".navbar-transparent").addClass("navaddcolor");
+			        } else {
+				        $(".navbar-transparent").removeClass("navaddcolor");
+			        }
+	        });
+	        // Navbar active class add on particular section
+	            $(document).ready(function(){
+			        var headings = $('.get-class');
+			        var nav = $('.nav');
+			        $(document).scroll(function(){
+				        var docScrollTop = $(document).scrollTop();
+				        var windowHeight = $(window).height();
+				        var foundHeading;
+				        var window40  = windowHeight * 0.45;
+				        headings.each(function(index, heading){
+					        heading = $(heading);
+					        if (heading.offset().top -  window40 <= docScrollTop && (!foundHeading || foundHeading.offset().top < heading.offset().top)){
+						        $(this).addClass("active")
+						        foundHeading = heading;
+					        }
+				        });
+				        nav.find('.active').removeClass('active');
+				        if (foundHeading){
+						        nav.find('[href="#' + foundHeading.attr('id') + '"]').parent('li').addClass('active'); 
+				        }
+			        });
+		        });
+		  
+	        // sidebar close on click of particular section
+         //   $('.pmd-navbar-sidebar .navbar-nav li > a').on( 'click', function() {
+		       // $('.pmd-navbar-sidebar').removeClass('pmd-sidebar-open');
+		       // $('.pmd-sidebar-overlay').removeClass('pmd-sidebar-overlay-active');
+		       // $('body').removeClass('pmd-body-open');
+	        //});
+	
+	        $(document).ready(function() {
+			
+		        $(function(){
+			        jQuery('img.svg').each(function(){
+				        var $img = jQuery(this);
+				        var imgID = $img.attr('id');
+				        var imgClass = $img.attr('class');
+				        var imgURL = $img.attr('src');
+
+				        jQuery.get(imgURL, function(data) {
+					        // Get the SVG tag, ignore the rest
+					        var $svg = jQuery(data).find('svg');
+
+					        // Add replaced image's ID to the new SVG
+					        if(typeof imgID !== 'undefined') {
+						        $svg = $svg.attr('id', imgID);
+					        }
+					        // Add replaced image's classes to the new SVG
+					        if(typeof imgClass !== 'undefined') {
+						        $svg = $svg.attr('class', imgClass+' replaced-svg');
+					        }
+					        // Remove any invalid XML tags as per http://validator.w3.org
+					        $svg = $svg.removeAttr('xmlns:a');
+					        // Check if the viewport is set, else we gonna set it if we can.
+					        if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
+						        $svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
+					        }
+					        // Replace image with new SVG
+					        $img.replaceWith($svg);
+
+				        }, 'xml');
+
+			        });
+		        });
+
+		
+			
+			
+	        })
+
+            $(".nav.navbar-nav").append("<span class='nav-active'></span>")
+
+            $(document).ready(function () {
+
+                $('#containerslide').click(function (e) {
+                    
+                    var hash = e.target.hash;
+                    console.log(e.target.hash);
+                    if (hash == "") {
+                        $('#containerslide').css("left", "0px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#vmware") {
+                        $('#containerslide').css("left", "-260px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#sql") {
+                        $('#containerslide').css("left", "-520px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#exchange") {
+                        $('#containerslide').css("left", "-790px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#tape") {
+                        $('#containerslide').css("left", "-1050px");
+                        e.preventDefault();
+                    }
+                });
+
+              
+                if (window.location.search.substr(1).split("=")[1] == "nodistraction") {
+                   
+                    $("#menu-top-menu").addClass("nodistraction");
+                    $(".header-title-bar").addClass("nodistraction");
+                    $("#ctl00_cph1_pnlButtons").addClass("hidden");
+                }
+
+                    //javascript for tabing component 
+                    $('.pmd-tabs').pmdTab();
+
+                   
+
+		            $(document).on("scroll load resize", onScroll);
+			        $('.nav a[href^="#"]').on('click', function(e) {
+				        e.preventDefault();
+				        if ($(window).width() < 768){
+					        $(".pmd-sidebar-overlay").trigger("click");
+				        }
+				        $(document).off("scroll");
+				        var target = this.hash,
+				        menu = target;
+                        $target = $(target);
+                        if ($target.hasClass("tab-pane")) return;
+				        var headerHeight = $(".navbar").height();
+				        $('html, body').stop().animate({
+					        'scrollTop': $target.offset().top - headerHeight
+				        }, 500, function() {
+					        $(document).on("scroll", onScroll);
+			        });			
+		        });
+		        $('.nav-active').hide();
+	        });	
+
+	        // Navbar active add remove
+	        function onScroll(event) {
+		        var scrollPos = $(document).scrollTop() + 205;
+		        $('.nav > li > a').each(function() {
+			        var currLink = $(this);
+			        var refElement = $('#' + currLink.attr("rel"));	
+			        if (refElement.position() != undefined) {
+				        if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+					        $('.nav li a').removeClass("active");
+					        currLink.addClass("active");
+					        $('.nav-active').show();
+					        var spanTop = $('.active').offset().left - $('.nav').offset().left;
+					        var navWidth = $(this).outerWidth();
+					        $('.nav .nav-active').css({"left":spanTop,"width":navWidth});
+				            } else {
+					        currLink.removeClass("active");
+				        }
+			        }
+		        });
+	        }
+	
+         
+
+
+        </script>
+
+
+        <div id="ctl00_pnlBottomScripts">
+	
+
+        <script src="/js/lightbox.min.js" type="text/javascript"></script>
+
+        <!-- script for vue.js library -->
+        <script src="/js/vue.min.js"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="/js/app.js"></script>
+
+        
+</div>
+
+<!-- Start of LiveChat (www.livechatinc.com) code (dynamic) -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 8607509;
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+</script>
+<noscript><a href="https://www.livechatinc.com/chat-with/8607509/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->   
+        
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6XNDRD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	</body>
+  
+</html>

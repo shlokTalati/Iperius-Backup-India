@@ -1,0 +1,704 @@
+
+<!doctype html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<html id="ctl00_html_tag" xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head><title>
+	Iperius Backup 7.1.1 - News / Change Log
+</title><link rel="shortcut icon" href="/favicon.ico" /><link rel="icon" href="/favicon.ico" type="image/x-icon" />
+   
+    <!-- Google icon -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" /><link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all" />
+
+    <!-- common css -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/propeller-theme.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/landing-page.css" type="text/css" media="all" />
+
+    <!--css for custom carousel component -->
+    <link rel="stylesheet" href="/css/owl.carousel.min.css" type="text/css" media="all" /><link rel="stylesheet" href="/css/theme-detail.css" type="text/css" media="all" />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="/css/iperius.css" type="text/css" media="all" />
+
+    <!-- css for custom animate component -->
+    <link rel="stylesheet" href="/css/animate.css" type="text/css" media="all" /><link rel="stylesheet" type="text/css" media="all" href="/css/lightbox.css" />
+
+    <!-- script for jquery library -->
+    <script type='text/javascript' src='/js/jquery-1.12.2.min.js'></script>
+
+    <script type='text/javascript' src='/js/bootstrap.min.js'></script>
+
+    <meta name="robots" content="index,follow" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><link rel="alternate" href="https://www.iperiusbackup.co.uk" hreflang="en-GB" /><link rel="alternate" href="https://www.iperiusbackup.es" hreflang="es" /></head>
+	<body>
+    
+    <form name="aspnetForm" method="post" action="./news.aspx?sr=16" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4NjM3NDAxNzgPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgICAQ8WAh4EbGFuZwUCZW4WCgIBD2QWAgIVDxYCHgRUZXh0BagDPCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgLS0+DQo8c2NyaXB0PihmdW5jdGlvbih3LGQscyxsLGkpe3dbbF09d1tsXXx8W107d1tsXS5wdXNoKHsnZ3RtLnN0YXJ0JzoNCm5ldyBEYXRlKCkuZ2V0VGltZSgpLGV2ZW50OidndG0uanMnfSk7dmFyIGY9ZC5nZXRFbGVtZW50c0J5VGFnTmFtZShzKVswXSwNCmo9ZC5jcmVhdGVFbGVtZW50KHMpLGRsPWwhPSdkYXRhTGF5ZXInPycmbD0nK2w6Jyc7ai5hc3luYz10cnVlO2ouc3JjPQ0KJ2h0dHBzOi8vd3d3Lmdvb2dsZXRhZ21hbmFnZXIuY29tL2d0bS5qcz9pZD0nK2krZGw7Zi5wYXJlbnROb2RlLmluc2VydEJlZm9yZShqLGYpOw0KfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdkYXRhTGF5ZXInLCdHVE0tUDZYTkRSRCcpOzwvc2NyaXB0Pg0KPCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPmQCBQ9kFhACAQ9kFjYCAQ8WAh8CZGQCAw8WAh8CZGQCBQ8WAh8CBRdJcGVyaXVzIEJhY2t1cCBGcmVld2FyZWQCBw8WBB8CBQ1GcmVlIERvd25sb2FkHgdWaXNpYmxlaGQCCQ8WAh8CBQlTb2x1dGlvbnNkAgsPFgIfAgUnRHJpdmUgSW1hZ2UgQmFja3VwIC8gRGlzayBjbG9uaW5nIC8gUDJWZAINDxYCHwIFGUJhY2t1cCB0byBDbG91ZCwgUzMgZSBGVFBkAg8PFgIfAgUTU1FMIERhdGFiYXNlIEJhY2t1cGQCEQ8WAh8CBSBCYWNrdXAgVk13YXJlIEVTWGkvRnJlZSwgdkNlbnRlcmQCEw8WAh8CBQ5CYWNrdXAgSHlwZXItVmQCFQ8WAh8CBSxCYWNrdXAgRXhjaGFuZ2UgU2VydmVyIC8gT25saW5lIChPZmZpY2UgMzY1KWQCFw8WAh8CBRRCYWNrdXAgdG8gVGFwZSAoTFRPKWQCGQ8WAh8CBS1DZW50cmFsaXplZCBNYW5hZ2VtZW50IC0gSVQvQmFja3VwIE1vbml0b3JpbmdkAhsPFgIfAgUNQ2xvdWQgU3RvcmFnZWQCHQ8WAh8CBR9SZW1vdGUgRGVza3RvcCAtIFJlbW90ZSBTdXBwb3J0ZAIfDxYCHwIFCFByb2R1Y3RzZAIhDxYCHwIFDEFsbCB2ZXJzaW9uc2QCIw8WAh8CBRFCZWNvbWUgYSBSRVNFTExFUmQCJQ8WAh8CBQNCdXlkAicPFgIfAgUSQnV5IElwZXJpdXMgQmFja3VwZAIpDxYCHwIFE0J1eSBJcGVyaXVzIENvbnNvbGVkAisPFgIfAgUSQnV5IElwZXJpdXMgUmVtb3RlZAItDxYCHwIFE0J1eSBJcGVyaXVzIFN0b3JhZ2VkAi8PFgIfAgURQmVjb21lIGEgUkVTRUxMRVJkAjEPFgIfAgUKQ29udGFjdCB1c2QCMw9kFgICAQ8WAh8CBQlZb3VyIGNhcnRkAjUPFgIfAmVkAgMPFgIfAgURTmV3cyAvIENoYW5nZSBMb2dkAgUPFgIfAgW+ATxhIGNsYXNzPSJ0ZXh0LXVwcGVyY2FzZSIgc3R5bGU9ImNvbG9yOiM0NDQ0NDQ7IiBocmVmPSIvbG9naW4uYXNweCI+TG9naW48L2E+ICZuYnNwOyAmbmJzcDs8YSBjbGFzcz0idGV4dC11cHBlcmNhc2UiIHN0eWxlPSJjb2xvcjojNDQ0NDQ0OyIgaHJlZj0iL3VzZXItcmVnaXN0cmF0aW9uLmFzcHgiPlNpZ24gdXA8L2E+ICZuYnNwOyBkAgcPFgIfAgUaPHN0cm9uZz5UdXRvcmlhbHM8L3N0cm9uZz5kAgkPEGRkFgECAmQCCw9kFgICAQ8WAh8CZWQCEQ9kFjgCAQ8WAh8CBYgBSXBlcml1cyBCYWNrdXAgaXMgdGhlIGlkZWFsIHNvbHV0aW9uIHRvIGJhY2t1cCBhbmQgcHJvdGVjdCB5b3VyIGltcG9ydGFudCBkYXRhLiBJcGVyaXVzIEJhY2t1cCBpcyB0aGUgc29mdHdhcmUgdGhhdCBjb21wbGV0ZXMgeW91ciB3b3JrLmQCAw8WAh8CBQpDb250YWN0IHVzZAIFDxYCHwIFJ3RvIHRhbGsgZGlyZWN0bHkgdG8gb25lIG9mIG91ciBleHBlcnRzLmQCBw8WAh8CBQVTYWxlc2QCCQ8WAh8CBRhJdGFseTogKCszOSkgMDczNSA1ODIzMzdkAgsPFgIfAgUaQ2hpbmE6ICgrODYpIDEzNyA1MjU1IDkwODdkAg0PFgIfAgUPTWFpbiBuYXZpZ2F0aW9uZAIPDxYCHwIFCUhvbWUgUGFnZWQCEQ8WAh8CBQ1GcmVlIERvd25sb2FkZAITDxYCHwIFC0J1eSBsaWNlbnNlZAIVDxYCHwIFCEZlYXR1cmVzZAIXDxYCHwIFCkNvbnRhY3QgdXNkAhkPFgIfAgWOATxsaT48YSBjbGFzcz0iaWNvblNtYWxsQ2xpZW50IiBocmVmPSIvbG9naW4uYXNweCI+TG9naW48L2E+PC9saT48bGk+PGEgY2xhc3M9Imljb25TbWFsbFNpZ251cCIgaHJlZj0iL3VzZXItcmVnaXN0cmF0aW9uLmFzcHgiPlNpZ24gdXA8L2E+PC9saT5kAhsPFgIfAgURT3RoZXIgaW5mb3JtYXRpb25kAh0PFgIfAgURQmVjb21lIGEgUmVzZWxsZXJkAh8PFgIfAgURQ29tcGxldGUgc29sdXRpb25kAiEPFgIfAgUQTmV3cyAvIENoYW5nZUxvZ2QCIw8WAh8CBTc8YSBocmVmPSIvcHJpdmFjeS1nZHByLmFzcHg/bGFuZz1lbiI+UHJpdmFjeSAvIEdEUFI8L2E+ZAIlDxYCHwIFDkluZm8gJiBTdXBwb3J0ZAInDxYCHwIFA0ZBUWQCKQ8WAh8CBQlUdXRvcmlhbHNkAisPFgIfAgUOVW5pbnN0YWxsYXRpb25kAi0PFgIfAgVgPGEgY2xhc3M9Imljb25TbWFsbEVtYWlsIiBocmVmPSJqYXZhc2NyaXB0OjsiIG9uY2xpY2s9InNlbmRtYWlsc3VwcG9ydGpzKCcnKTsiPkVtYWlsIFN1cHBvcnQ8L2E+ZAIvDxYCHwJlZAIxDxYCHwJkZAIzDxYCHwIFBDIwMjJkAjUPFgIfAgUGVkFUIElEZAI3DxYCHwIFE0FsbCByaWdodHMgcmVzZXJ2ZWRkAhMPZBYCZg8WAh8CBfkDPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KDQogICAgdmFyIF9nYXEgPSBfZ2FxIHx8IFtdOw0KICAgIF9nYXEucHVzaChbJ19zZXRBY2NvdW50JywgJ1VBLTI2MjY0NDc0LTMnXSk7DQogICAgX2dhcS5wdXNoKFsnX3RyYWNrUGFnZXZpZXcnXSk7DQoNCiAgICAoZnVuY3Rpb24gKCkgew0KICAgICAgICB2YXIgZ2EgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgZ2EudHlwZSA9ICd0ZXh0L2phdmFzY3JpcHQnOyBnYS5hc3luYyA9IHRydWU7DQogICAgICAgIGdhLnNyYyA9ICgnaHR0cHM6JyA9PSBkb2N1bWVudC5sb2NhdGlvbi5wcm90b2NvbCA/ICdodHRwczovLycgOiAnaHR0cDovLycpICsgJ3N0YXRzLmcuZG91YmxlY2xpY2submV0L2RjLmpzJzsNCiAgICAgICAgdmFyIHMgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnc2NyaXB0JylbMF07IHMucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoZ2EsIHMpOw0KICAgIH0pKCk7DQoNCjwvc2NyaXB0PmQCBw8WAh8CZWQCDQ8WAh8CBb4IPCEtLSBTdGFydCBvZiBMaXZlQ2hhdCAod3d3LmxpdmVjaGF0aW5jLmNvbSkgY29kZSAoZHluYW1pYykgLS0+DQo8c2NyaXB0Pg0KICAgIHdpbmRvdy5fX2xjID0gd2luZG93Ll9fbGMgfHwge307DQogICAgd2luZG93Ll9fbGMubGljZW5zZSA9IDg2MDc1MDk7DQogICAgOyhmdW5jdGlvbihuLHQsYyl7ZnVuY3Rpb24gaShuKXtyZXR1cm4gZS5faD9lLl9oLmFwcGx5KG51bGwsbik6ZS5fcS5wdXNoKG4pfXZhciBlPXtfcTpbXSxfaDpudWxsLF92OiIyLjAiLG9uOmZ1bmN0aW9uKCl7aShbIm9uIixjLmNhbGwoYXJndW1lbnRzKV0pfSxvbmNlOmZ1bmN0aW9uKCl7aShbIm9uY2UiLGMuY2FsbChhcmd1bWVudHMpXSl9LG9mZjpmdW5jdGlvbigpe2koWyJvZmYiLGMuY2FsbChhcmd1bWVudHMpXSl9LGdldDpmdW5jdGlvbigpe2lmKCFlLl9oKXRocm93IG5ldyBFcnJvcigiW0xpdmVDaGF0V2lkZ2V0XSBZb3UgY2FuJ3QgdXNlIGdldHRlcnMgYmVmb3JlIGxvYWQuIik7cmV0dXJuIGkoWyJnZXQiLGMuY2FsbChhcmd1bWVudHMpXSl9LGNhbGw6ZnVuY3Rpb24oKXtpKFsiY2FsbCIsYy5jYWxsKGFyZ3VtZW50cyldKX0saW5pdDpmdW5jdGlvbigpe3ZhciBuPXQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7bi5hc3luYz0hMCxuLnR5cGU9InRleHQvamF2YXNjcmlwdCIsbi5zcmM9Imh0dHBzOi8vY2RuLmxpdmVjaGF0aW5jLmNvbS90cmFja2luZy5qcyIsdC5oZWFkLmFwcGVuZENoaWxkKG4pfX07IW4uX19sYy5hc3luY0luaXQmJmUuaW5pdCgpLG4uTGl2ZUNoYXRXaWRnZXQ9bi5MaXZlQ2hhdFdpZGdldHx8ZX0od2luZG93LGRvY3VtZW50LFtdLnNsaWNlKSkNCjwvc2NyaXB0Pg0KPG5vc2NyaXB0PjxhIGhyZWY9Imh0dHBzOi8vd3d3LmxpdmVjaGF0aW5jLmNvbS9jaGF0LXdpdGgvODYwNzUwOS8iIHJlbD0ibm9mb2xsb3ciPkNoYXQgd2l0aCB1czwvYT4sIHBvd2VyZWQgYnkgPGEgaHJlZj0iaHR0cHM6Ly93d3cubGl2ZWNoYXRpbmMuY29tLz93ZWxjb21lIiByZWw9Im5vb3BlbmVyIG5vZm9sbG93IiB0YXJnZXQ9Il9ibGFuayI+TGl2ZUNoYXQ8L2E+PC9ub3NjcmlwdD4NCjwhLS0gRW5kIG9mIExpdmVDaGF0IGNvZGUgLS0+ZAIPDxYCHwIF9QE8IS0tIEdvb2dsZSBUYWcgTWFuYWdlciAobm9zY3JpcHQpIC0tPg0KPG5vc2NyaXB0PjxpZnJhbWUgc3JjPSJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ucy5odG1sP2lkPUdUTS1QNlhORFJEIg0KaGVpZ2h0PSIwIiB3aWR0aD0iMCIgc3R5bGU9ImRpc3BsYXk6bm9uZTt2aXNpYmlsaXR5OmhpZGRlbiI+PC9pZnJhbWU+PC9ub3NjcmlwdD4NCjwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAobm9zY3JpcHQpIC0tPmRkWl3i4hebE4jGFfJoldo2T1zhw3p7U2DUZBjHe775YbM=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA8C29DA" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABD/34x5lP3sV99Qy5tm4YZDX7Xvzb09p206mAKQZG+aDJPRk2hFk/5agF2+zHdQ3W5U/HBf1RoocDPthgLqXNyrTIwYQXQ20EFgaHyGmWMWfas0HRGwuXjfgETeM6D4LZquWm7ON6K45djYmt44BnQHn83eB8e9VUvbppsii+z+3mxBy7f4n7Dbnq3Obxu64ar37Z3w61jMIuKFEgTXzWy1GeAdHJefdjqKkWMUYuHrRWUmEbhrldhHyxc7q13HwZQL528XILSJ0lF+bnWO5klepAqaaBPNQtMdNFsu4Lof/hy2nXYJC0keN3SdaTD9SxsuW4T+nGULX6nBqz3Sic0lRKV9UpI4accNNDLlPhRTWXiuDyZtT5wD1FnFC9aTWAE=" />
+   
+		<!-- Site Wrapper Start -->
+		<div class="siteWrapper" itemscope itemtype="http://schema.org/SoftwareApplication">
+			<!-- Site Header -->
+            
+
+<!--navbar start -->
+	<nav class="navbar navbar-inverse pmd-navbar navbar-fixed-top">
+
+         <div class="container">
+              <!-- Brand and toggle get grouped for better mobile display -->
+              <div class="navbar-header">
+                <button class="pmd-ripple-effect navbar-toggle pmd-navbar-toggle" type="button">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <!--logo-->
+                  <a href="/index.aspx" class="navbar-brand">
+                        <img src="/img/logos/iperius_backup_logo_header.png" width="173" />
+                   </a>
+              
+              
+              </div>
+              <!-- Collect the nav links, forms, and other content for toggling -->
+              <div id="bs-example-navbar-collapse-2" class="collapse navbar-collapse pmd-navbar-sidebar">
+                   
+                    <a href="/backup-tutorials/index-tutorials.aspx"></a> &nbsp; &nbsp;
+                  
+            		<!--nav -->
+            		<ul id="menu-top-menu" class="nav navbar-nav navbar-right">
+                        <li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/download-software-backup.aspx" title="Iperius Backup Freeware" ></a></li>
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Solutions <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            
+                            <li><a href="/drive-image-backup.aspx">Drive Image Backup / Disk cloning / P2V</a></li>
+                            <li><a href="/ftp-backup-cloud-storage-online.aspx">Backup to Cloud, S3 e FTP</a></li>
+                            <li><a href="/backup-database.aspx">SQL Database Backup</a></li>
+                            <li><a href="/software-backup-esxi-hyper-v.aspx">Backup VMware ESXi/Free, vCenter</a></li>
+                              <li><a href="/software-backup-esxi-hyper-v.aspx">Backup Hyper-V</a></li>
+                            <li><a href="/backup-exchange-software-export-mailboxes-pst.aspx">Backup Exchange Server / Online (Office 365)</a></li>
+                            <li><a href="/tape-backup-software.aspx">Backup to Tape (LTO)</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Centralized Management - IT/Backup Monitoring</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Cloud Storage (FTPS / S3)</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx">Remote Desktop - Remote Support</a></li>
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Products <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                              <li><a href="/software-backup-free.aspx">Iperius Backup <strong>Free</strong></a></li> 
+                              <li><a href="/iperius-backup-desktop.aspx">Iperius Backup Desktop</a></li> 
+                              <li><a href="/backup-software-windows.aspx">Iperius Backup (All versions)</a></li> 
+                              <li role="separator" class="divider"></li>
+                            <li><a href="/web-console-backup.aspx">Iperius Console</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Iperius Cloud Storage</a></li>
+                            <li><a style="color:#ff6d3f; font-weight:bold;" href="/iperius-remote-desktop.aspx">Iperius Remote 4 (NEW!)</a> </li>
+
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/contact.aspx">Become a RESELLER</a></li> 
+                              
+                          </ul>
+                        </li>
+
+                        <li class="dropdown pmd-dropdown">
+                          <a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Buy <span class="caret"></span></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="/backup-software-windows.aspx">Buy Iperius Backup</a></li>
+                            <li><a href="/web-console-backup.aspx#buy">Buy Iperius Console</a></li>
+                            <li><a href="/iperius-remote-desktop.aspx#buy">Buy Iperius Remote</a></li>
+                            <li><a href="/iperius-backup-online-storage.aspx">Buy Iperius Storage</a></li>
+                            <li role="separator" class="divider"></li>
+                            <li><a style="font-weight:bold;" href="/contact.aspx">Become a RESELLER</a></li>
+                          </ul>
+                        </li>
+                        <li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/contact.aspx">Contact us</a></li>
+                        <li id="ctl00_HeaderUserControl_pnlCart" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/cart.aspx" style="color:#ffd800; font-size:12pt;"><i class="fa fa-shopping-cart"></i> Your cart</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"></li>
+ 
+                    </ul>            		
+                  	<!--nav -->
+              
+              </div>
+              <!-- /.navbar-collapse -->
+         </div><!-- /.container-fluid -->
+
+         <div class="pmd-sidebar-overlay"></div>
+
+    </nav>
+	<!--navbar end -->
+    
+            
+		    <div class="header-title-bar container" style="height:auto;">
+                        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12 breadcrumb" >                                                       
+                            <span style="font-size:10pt;">News / Change Log</span>                             
+                    </div>
+        
+       
+                    <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12 text-left" >
+            
+                        <div class="form-group">
+                        <select name="ctl00$cbxLang" id="ctl00_cbxLang" class="form-control">
+		<option selected="selected" value="en">English</option>
+</select>
+                    </div>
+                </div> 
+            </div> 
+
+            <!--banner-->         
+	           
+			<!-- Content Header -->
+            <!--header-title-bar -->
+         
+           
+			<!-- Content Wrapper -->
+			<div class="contentWrapper">
+                 
+				<div class="center clearfix">
+					<!-- Additional clearfix necessary for non floated objects -->
+					<div class="clearfix">
+					</div>
+					<!-- Content Starts - Header template should end here -->
+					<!--Left layout column -->
+					<div class="container" id="app" > 
+
+
+
+                    
+    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+<div id="ctl00_cph1_pnlGrigliaNews">
+	<table align="center" width="100%" cellpadding="0" border="0" style="border-left-color: #cccccc; border-bottom-color: #cccccc; border-top-color: #cccccc; border-right-color: #cccccc; border-collapse: collapse; COLOR: #000000;" bordercolor="#cccccc">
+
+<tr bgcolor=""><td align="left" style="display:none;">157</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.1.1</h3><p class="postHeader">22/09/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li>File-level restore from virtual machine backups (VMDK, VHD, VHDX): now the <strong>XFS</strong> file system (CentOS and RedHat virtual machines) is fully supported
+</li>
+<li>
+ESXi backup: now the log also shows the name of the numbered folder where the CBT backup is done (001, 002 ..)
+</li>
+<li>
+Drive image: any mounted virtual disks are now automatically excluded in the backup configuration
+</li>
+<li>
+Hyper-V Backup: error handling has been improved 
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+Restore of ESXi virtual machines: now Iperius correctly manages and displays CBT backups consisting of full copies only
+</li>
+<li>
+Oracle backup: fixed an error that prevented from correctly taking the date and size of the last backup
+</li>
+<li>
+Drive image: now the software correctly manages the presence of external USB disks avoiding errors in some specific cases.</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">155</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.1.0</h3><p class="postHeader">24/07/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li>Restore Hyper-V: now it is possible to perform the <strong>restore of single files</strong> also from incremental and differential backups (RCT)
+</li>
+<li>
+Single file restore from drive image: now the functionality has been merged with the single file restore interface from Hyper-V and VMware backups
+</li>
+<li>
+Hyper-V Backup: added option to decide whether to automatically add new virtual machines to the backup after the first configuration of the job
+</li>
+<li>
+<a target="_blank" style="color:blue" href="https://www.iperiusconsole.com">Iperius Console</a>: added periodic email notifications containing the summary job statuses and system alerts
+</li>
+<li>
+Iperius Console: improved the remote desktop connection through Iperius Remote
+</li>
+<li>
+Iperius Console: added the ability to run processes on remote computers
+</li>
+<li>
+Iperius Console: several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+Restore Hyper-V: a backup made by direct copy of the VM files was not correctly detected
+</li>
+<li>
+Ransomware file check: fixed some false positive errors in checking of some files coming from MAC systems
+</li>
+<li>
+Backup to Dropbox: fixed an error in downloading files
+</li>
+<li>
+Backup to Dropbox: fixed an error in uploading files larger than 150 MB (connection lost 10058)</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">154</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.0.9</h3><p class="postHeader">26/06/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li>Iperius now supports backup on BackBlaze (S3): <a style="color:blue" href="https://www.iperiusbackup.net/en/backup-to-backblaze-s3-with-iperius-backup/">https://www.iperiusbackup.net/en/backup-to-backblaze-s3-with-iperius-backup/</a>
+</li>
+<li>
+Backup on Amazon S3: support for the Milan and Stockholm regions
+</li>
+<li>
+Iperius now supports backup on Centron S3 Storage: <a style="color:blue" href="https://www.iperiusbackup.net/en/backup-to-centron-s3-storage-with-iperius-backup/">https://www.iperiusbackup.net/en/backup-to-centron-s3-storage-with-iperius-backup/</a>
+</li>
+<li>
+Iperius Recovery Environment now also supports Windows PE 4.0
+</li>
+<li>
+Updated Simplified Chinese translation
+</li>
+<li>
+ESXi virtual machine replication: now for host-to-host replication it is not mandatory to insert a suffix for the name of the replicated vm.
+</li>
+<li>
+Exchange Server backup: added option to set the maximum limit of bad items allowed
+</li>
+<li>
+Backup to OneDrive: Single files up to 100 GB can now be sent
+</li>
+<li>
+Several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+Some minor bugs fixed</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">153</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.0.8</h3><p class="postHeader">25/05/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li>Iperius Backup is compatible with VMware ESXi 7
+</li>
+<li>
+SQL Server backup: Iperius now supports TLS 1.2 encrypted connection
+</li>
+<li>
+SQL Server backup: now the compressed size is also shown in the log when native compression is enabled
+</li>
+<li>
+ESXi configuration: now the default backup is the incremental one (CBT / VDDK)
+</li>
+<li>
+Added new command line parameter to run a job as a service
+</li>
+<li>
+SQL Server: now the software better manages the switch between native compression enabled and disabled, showing a warning when the backup set is reinitialized
+</li>
+<li>
+Several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+Incremental Hyper-V backup using Windows Server Backup on Server 2019: fixed an error in the selection of multiple virtual machines, one of which with spaces in the name
+</li>
+<li>
+Incremental Hyper-V backup using Windows Server Backup: improved interception of VSS errors on some systems and with some specific problems.
+</li>
+<li>
+SQL Server Backup: Fixed a bug in backing up transaction logs when multiple databases were selected
+</li>
+<li>
+FTP Backup: empty folders were not removed even if the option to always delete them was set
+</li>
+<li>
+Ransomware check: improved check for some types of ransomware and more complex extensions of encrypted files
+</li>
+<li>
+Some minor bugs fixed</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">152</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.0.5</h3><p class="postHeader">14/04/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li>Several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+Backup to Dropbox: fixed an issue that caused only full backups to be performed even when choosing incremental mode.
+</li>
+<li>
+Hyper-V backup: fixed a timeout problem</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">151</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.0.4</h3><p class="postHeader">01/04/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li>Backup to Amazon S3 China: full support introduced
+</li>
+<li>
+Iperius Storage S3 web interface: some improvements and adjustments
+</li>
+<li>
+Hyper-V RCT incremental backup: several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+ESXi backup: fixed "out of memory" bug on some systems
+</li>
+<li>
+Hyper-V Restore (RCT): fixed a display problem of multiple full backups
+</li>
+<li>
+Incremental Hyper-V Backup (RCT): fixed a network authentication problem</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">149</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.0.3</h3><p class="postHeader">23/03/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li><strong>Iperius Storage S3</strong>: the new web interface to access your files is finally online: <a target="_blank" style="color:blue" href="https://storage.iperius.com">https://storage.iperius.com</a>
+</li>
+<li>
+Exchange Online backup improved and speeded up (Office 365)
+</li>
+<li>
+Zip compression: added option to add files within zip archives with their relative path
+</li>
+<li>
+Incremental backup of Hyper-V (RCT): added a check on the version of the VM and a specific error message if the VM does not support RCT
+</li>
+<li>
+Several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+SQL Server backup: fixed a backup error due to the tempdb database
+</li>
+<li>
+Incremental backup of Hyper-V (RCT): fixed problem related to an incorrect error message during configuration.
+</li>
+<li>
+Hyper-V incremental backup (RCT): fixed a network authentication issue
+</li>
+<li>
+Some minor bugs fixed</li>
+</ul></div></div></td>
+</tr><tr bgcolor=""><td align="left" style="display:none;">150</td>
+<td align="left"><div class="blogPost column"><h3>Iperius Backup 7.0.3</h3><p class="postHeader">23/03/2020</p><div class="column large"><h5 style="margin-top:15px; color:#666666;">New features</h5><ul class="list tick"><li><strong>Iperius Storage S3</strong>: the new web interface to access your files is finally online: <a target="_blank" style="color:blue" href="https://storage.iperius.com">https://storage.iperius.com</a>
+</li>
+<li>
+Exchange Online backup improved and speeded up (Office 365)
+</li>
+<li>
+Zip compression: added option to add files within zip archives with their relative path
+</li>
+<li>
+Incremental backup of Hyper-V (RCT): added a check on the version of the VM and a specific error message if the VM does not support RCT
+</li>
+<li>
+Several improvements and optimizations
+</li>
+</ul></div><div class="column large"><h5 style="margin-top:15px; color:#666666;">Fixed bugs</h5><ul class="list tick"><li>
+SQL Server backup: fixed a backup error due to the tempdb database
+</li>
+<li>
+Incremental backup of Hyper-V (RCT): fixed problem related to an incorrect error message during configuration.
+</li>
+<li>
+Hyper-V incremental backup (RCT): fixed a network authentication issue
+</li>
+<li>
+Some minor bugs fixed</li>
+</ul></div></div></td>
+</tr></table><div id="ctl00_cph1_paginatorepnlGrigliaNews">
+		<br /><br /><table align="center" width="100%" border="0" cellpadding="5" style="border-left-color: #cccccc; border-bottom-color: #cccccc; border-top-color: #cccccc; border-right-color: #cccccc; border-collapse: collapse; COLOR: #000000;" bordercolor="#cccccc">
+<tr><td style="font-weight:normal; font-family:Trebuchet MS; font-size:11pt; text-align:center; vertical-align:middle; border-color: white;"><a id="ctl00_cph1_lnkinizio-pg-pnlGrigliaNews" href="javascript:__doPostBack(&#39;ctl00$cph1$lnkinizio-pg-pnlGrigliaNews&#39;,&#39;&#39;)"><font color="DarkGray">&lt;&lt;&nbsp;Start</font></a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="ctl00_cph1_lnkbw-pg-pnlGrigliaNews-14" href="javascript:__doPostBack(&#39;ctl00$cph1$lnkbw-pg-pnlGrigliaNews-14&#39;,&#39;&#39;)">&lsaquo;&lsaquo;&nbsp;Previous</a>&nbsp;&nbsp;<a  href="/news.aspx">1</a>&nbsp;<a  href="/news.aspx?sr=8">2</a>&nbsp;<a  href="/news.aspx?sr=16">3</a>&nbsp;<a  href="/news.aspx?sr=24">4</a>&nbsp;<a style="font-weight:bold; color:#444444;" href="/news.aspx?sr=32">5</a>&nbsp; ... on 20&nbsp;&nbsp;<a id="ctl00_cph1_lnkfw-pg-pnlGrigliaNews-30" href="javascript:__doPostBack(&#39;ctl00$cph1$lnkfw-pg-pnlGrigliaNews-30&#39;,&#39;&#39;)">Next&nbsp;&rsaquo;&rsaquo;</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="ctl00_cph1_lnkfine-pg-pnlGrigliaNews-152" href="javascript:__doPostBack(&#39;ctl00$cph1$lnkfine-pg-pnlGrigliaNews-152&#39;,&#39;&#39;)"><font color="DarkGray">End&nbsp;&gt;&gt;</font></a></td></tr></table>
+	</div>
+</div>
+<br /><br />
+        </div>
+ 
+					</div>
+					<!-- Right layout column -->
+					<div class="siteColumnRight">
+						<div class="column">
+                            
+                            
+                            <br /><br />
+                            <div id="ctl00_pnlOnlineStorage">
+	
+                            
+                                <br /><br /><br />
+                            
+</div>
+                       </div>
+					</div>
+					<!-- Content Ends - Footer template should start here -->
+				</div>
+			</div>
+
+        
+	
+   	
+    <footer class="iperius-footer">
+       <div class="container-fluid text-center">
+            <div class="row" style="
+                        padding-bottom: 15px;
+                        margin-bottom: 20px;
+                        padding-top: 15px;
+                        padding-left: 50px;
+                        background: #e5e5e5;
+                        padding-right: 50px;
+                ">
+                <h6 style="color:#000;">
+                        <label>Iperius Backup is the ideal solution to backup and protect your important data. Iperius Backup is the software that completes your work.<br /><br /><a href="/contact.aspx"><b style="color:#000">Contact us</b></a>&nbsp;to talk directly to one of our experts.</label>
+				</h6>
+            </div>
+       </div>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-lg-2 visible-lg">
+                    <ul class="list-inline">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6  class="text-uppercase"> <img width="150"  src="/img/logos/iperius_backup_logo_header.png"/></h6>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Contact Us</h6>
+                        </li>
+                        <li>ADDRESS:<br>
+1109, Nilamber Triumph, Nr. Bansal Mall, Nilamber Circle, Gotri - Vasna Road,
+Vadodara - 390 021 Gujarat India</li>
+<li></li>
+<li>
+PHONE:<br>
++91 265 296 0035, 299 0035,<br>
++91 99099 85114, (M) +91 98254 12230
+</li>
+<li></li>
+
+<li>E-MAIL:<br>
+sales@niftysolutions.co.in</li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                       
+                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133 ">
+                            <h6  class="text-uppercase"> Main navigation</h6>
+                        </li>
+                        <li><a href="/index.aspx">Home Page</a></li>
+						<li><a href="/download-software-backup.aspx">Free Download</a></li>
+						<li><a href="/backup-software-windows.aspx">Buy license</a></li>
+						<li><a href="/backup-software-windows.aspx">Features</a></li>
+						<li><a href="/contact.aspx">Contact us</a></li>
+                        
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul class="list-inline text-left">
+                        
+                        <li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                           <h6 class="text-uppercase">Other information</h6>
+                        </li>
+                        <li><a href="/contact.aspx">Become a Reseller</a></li>
+						<li><a href="/backup-windows-server.aspx">Complete solution</a></li>
+                        <li><a href="/eula.aspx">EULA</a></li>
+						
+                    </ul>
+                </div>
+                 <div class="col-lg-2 col-md-3 col-sm-3">
+                    <ul  class="list-inline text-left">
+                       <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133">
+                            <h6 class="text-uppercase">Info & Support</h6>
+                        </li>
+                         <li><a href="/faq.aspx">FAQ</a></li>
+                         <li><a href="/backup-tutorials/index-tutorials.aspx">Tutorials</a></li>
+						 <li><a target="_blank" href="http://www.iperiusbackup.net/en/how-to-uninstall-iperius-backup/">Uninstallation</a></li>
+						
+                         
+                    </ul>
+                </div>
+               
+            </div>
+            
+           
+        </div>
+    </footer>
+    
+
+
+
+		</div>
+		<!-- Site Wrapper Ends -->
+        </form>
+        
+
+        
+ 
+        <script type='text/javascript' src='/js/contact.js'></script>
+
+        <script type='text/javascript' src='/js/propeller.min.js'></script>
+
+        <script type="text/javascript">
+	        // Navbar background color add after scroll down
+	        $(window).on("scroll load",function() {    
+			        var scroll = $(window).scrollTop();
+			        if (scroll >= 100) {
+				        $(".navbar-transparent").addClass("navaddcolor");
+			        } else {
+				        $(".navbar-transparent").removeClass("navaddcolor");
+			        }
+	        });
+	        // Navbar active class add on particular section
+	            $(document).ready(function(){
+			        var headings = $('.get-class');
+			        var nav = $('.nav');
+			        $(document).scroll(function(){
+				        var docScrollTop = $(document).scrollTop();
+				        var windowHeight = $(window).height();
+				        var foundHeading;
+				        var window40  = windowHeight * 0.45;
+				        headings.each(function(index, heading){
+					        heading = $(heading);
+					        if (heading.offset().top -  window40 <= docScrollTop && (!foundHeading || foundHeading.offset().top < heading.offset().top)){
+						        $(this).addClass("active")
+						        foundHeading = heading;
+					        }
+				        });
+				        nav.find('.active').removeClass('active');
+				        if (foundHeading){
+						        nav.find('[href="#' + foundHeading.attr('id') + '"]').parent('li').addClass('active'); 
+				        }
+			        });
+		        });
+		  
+	        // sidebar close on click of particular section
+         //   $('.pmd-navbar-sidebar .navbar-nav li > a').on( 'click', function() {
+		       // $('.pmd-navbar-sidebar').removeClass('pmd-sidebar-open');
+		       // $('.pmd-sidebar-overlay').removeClass('pmd-sidebar-overlay-active');
+		       // $('body').removeClass('pmd-body-open');
+	        //});
+	
+	        $(document).ready(function() {
+			
+		        $(function(){
+			        jQuery('img.svg').each(function(){
+				        var $img = jQuery(this);
+				        var imgID = $img.attr('id');
+				        var imgClass = $img.attr('class');
+				        var imgURL = $img.attr('src');
+
+				        jQuery.get(imgURL, function(data) {
+					        // Get the SVG tag, ignore the rest
+					        var $svg = jQuery(data).find('svg');
+
+					        // Add replaced image's ID to the new SVG
+					        if(typeof imgID !== 'undefined') {
+						        $svg = $svg.attr('id', imgID);
+					        }
+					        // Add replaced image's classes to the new SVG
+					        if(typeof imgClass !== 'undefined') {
+						        $svg = $svg.attr('class', imgClass+' replaced-svg');
+					        }
+					        // Remove any invalid XML tags as per http://validator.w3.org
+					        $svg = $svg.removeAttr('xmlns:a');
+					        // Check if the viewport is set, else we gonna set it if we can.
+					        if(!$svg.attr('viewBox') && $svg.attr('height') && $svg.attr('width')) {
+						        $svg.attr('viewBox', '0 0 ' + $svg.attr('height') + ' ' + $svg.attr('width'))
+					        }
+					        // Replace image with new SVG
+					        $img.replaceWith($svg);
+
+				        }, 'xml');
+
+			        });
+		        });
+
+		
+			
+			
+	        })
+
+            $(".nav.navbar-nav").append("<span class='nav-active'></span>")
+
+            $(document).ready(function () {
+
+                $('#containerslide').click(function (e) {
+                    
+                    var hash = e.target.hash;
+                    console.log(e.target.hash);
+                    if (hash == "") {
+                        $('#containerslide').css("left", "0px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#vmware") {
+                        $('#containerslide').css("left", "-260px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#sql") {
+                        $('#containerslide').css("left", "-520px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#exchange") {
+                        $('#containerslide').css("left", "-790px");
+                        e.preventDefault();
+                    }
+                    if (hash == "#tape") {
+                        $('#containerslide').css("left", "-1050px");
+                        e.preventDefault();
+                    }
+                });
+
+              
+                if (window.location.search.substr(1).split("=")[1] == "nodistraction") {
+                   
+                    $("#menu-top-menu").addClass("nodistraction");
+                    $(".header-title-bar").addClass("nodistraction");
+                    $("#ctl00_cph1_pnlButtons").addClass("hidden");
+                }
+
+                    //javascript for tabing component 
+                    $('.pmd-tabs').pmdTab();
+
+                   
+
+		            $(document).on("scroll load resize", onScroll);
+			        $('.nav a[href^="#"]').on('click', function(e) {
+				        e.preventDefault();
+				        if ($(window).width() < 768){
+					        $(".pmd-sidebar-overlay").trigger("click");
+				        }
+				        $(document).off("scroll");
+				        var target = this.hash,
+				        menu = target;
+                        $target = $(target);
+                        if ($target.hasClass("tab-pane")) return;
+				        var headerHeight = $(".navbar").height();
+				        $('html, body').stop().animate({
+					        'scrollTop': $target.offset().top - headerHeight
+				        }, 500, function() {
+					        $(document).on("scroll", onScroll);
+			        });			
+		        });
+		        $('.nav-active').hide();
+	        });	
+
+	        // Navbar active add remove
+	        function onScroll(event) {
+		        var scrollPos = $(document).scrollTop() + 205;
+		        $('.nav > li > a').each(function() {
+			        var currLink = $(this);
+			        var refElement = $('#' + currLink.attr("rel"));	
+			        if (refElement.position() != undefined) {
+				        if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+					        $('.nav li a').removeClass("active");
+					        currLink.addClass("active");
+					        $('.nav-active').show();
+					        var spanTop = $('.active').offset().left - $('.nav').offset().left;
+					        var navWidth = $(this).outerWidth();
+					        $('.nav .nav-active').css({"left":spanTop,"width":navWidth});
+				            } else {
+					        currLink.removeClass("active");
+				        }
+			        }
+		        });
+	        }
+	
+         
+
+
+        </script>
+
+
+        <div id="ctl00_pnlBottomScripts">
+	
+
+        <script src="/js/lightbox.min.js" type="text/javascript"></script>
+
+        <!-- script for vue.js library -->
+        <script src="/js/vue.min.js"></script>
+        <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+        <script src="/js/app.js"></script>
+
+        
+</div>
+
+  
+        
+
+
+	</body>
+  
+</html>
